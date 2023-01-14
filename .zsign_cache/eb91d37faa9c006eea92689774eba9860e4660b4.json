@@ -1,0 +1,12 @@
+
+{
+	"bid" : "com.xuanfeng.gttekaazs",
+	"bver" : null,
+	"changed" : [ "embedded.mobileprovision" ],
+	"exec" : "DCloud",
+	"name" : "测试",
+	"path" : "/",
+	"root" : "/www/wwwroot/qijian3.xmygj.cn/data/ipadir/o_1fhvvatb11r12181ru0518phm2f9.ipa/Payload/DCloud.app",
+	"sha1" : "xrQj+0kOVeZ8u2RR3OfRzdcv7uc=",
+	"sha2" : "dzw9m1hc9Bdz1r0UoNhCVfoKGMGRFjR2DStv0IMMcZs="
+}

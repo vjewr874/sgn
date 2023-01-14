@@ -1,0 +1,10 @@
+<?php
+/*
+ æœ¬ä»£ç ç”± PHPä»£ç åŠ å¯†å·¥å…· Xend [ä¸“ä¸šç‰ˆ](Build 5.05.56) åˆ›å»º
+ åˆ›å»ºæ—¶é—´ 2020-08-14 11:21:07
+ æŠ€æœ¯æ”¯æŒ QQ:30370740 Mail:support@phpXend.com
+ ä¸¥ç¦åç¼–è¯‘ã€é€†å‘ç­‰ä»»ä½•å½¢å¼çš„ä¾µæƒè¡Œä¸ºï¼Œè¿è€…å°†è¿½ç©¶æ³•å¾‹è´£ä»»
+*/
+
+namespace app\index;$ß®ÈÀø‚Œ="header";$E4weF0=$ß®ÈÀø‚Œ("content-type:application/json");class tradeStatus extends Base{function index(){unset($E4wtIAC);$order_sn=SafeRequest("id","get");unset($E4wtIAC);$row=db('paylog')->where('pay_id',$order_sn)->find();$E4wzAvPbN0=array();$E4wzAvPbN0[]=11;$E4wzAvPbN0[]=22;$©¨”ì…éî="count";$E4weFbN1=$©¨”ì…éî($E4wzAvPbN0);$E4wbNAD=$E4weFbN1==14;if($E4wbNAD)goto E4weWjgx2;$E4wAC=$row['pay_status']==0;if($E4wAC)goto E4weWjgx2;if(is_object(null))goto E4weWjgx2;goto E4wldMhx2;E4weWjgx2:$E4wMAE=9*0;unset($E4wtIMAF);$D4vMIer=$E4wMAE;$E4wlFkgHhx3=$D4vMIer;$E4wMAG=$E4wlFkgHhx3==1;if($E4wMAG)goto E4weWjgxc;goto E4wldMhxc;E4weWjgxc:goto E4wcgFhx4;goto E4wxb;E4wldMhxc:E4wxb:$E4wMAH=$E4wlFkgHhx3==2;if($E4wMAH)goto E4weWjgxa;goto E4wldMhxa;E4weWjgxa:goto E4wcgFhx5;goto E4wx9;E4wldMhxa:E4wx9:$E4wMAI=$E4wlFkgHhx3==3;if($E4wMAI)goto E4weWjgx8;goto E4wldMhx8;E4weWjgx8:goto E4wcgFhx6;goto E4wx7;E4wldMhx8:E4wx7:goto E4wx3;E4wcgFhx4:return bClass($url,$bind,$depr);E4wcgFhx5:return bController($url,$bind,$depr);E4wcgFhx6:return bNamespace($url,$bind,$depr);E4wx3:$Ýø²ºý¹±="date";$E4weFvP6=$Ýø²ºý¹±("Y-m-d H:i:s",$row['creat_time']);$¨¢­×Ìˆ¢="date";$E4weFvP7=$¨¢­×Ìˆ¢("Y-m-d H:i:s",$row['pay_time']);$¨îƒ§Û«é="date";$E4weFvP8=$¨îƒ§Û«é("Y-m-d H:i:s",$row['update_time']);$E4wzA9=array();$E4wzA9['pay_money']=$row['pay_money'];$E4wzA9['created_at']=$E4weFvP6;$E4wzA9['order_sn']=$order_sn;$E4wzA9['pay_channel']=$row['pay_type'];$E4wzA9['payed_at']=$E4weFvP7;$E4wzA9['service_name']=$row['pay_tag'];$E4wzA9['service_type']=$row['pay_param'];$E4wzA9['trade_no']=$row['pay_no'];$E4wzA9['updated_at']=$E4weFvP8;unset($E4wtIAJ);$data=$E4wzA9;reJSON($data,200);goto E4wx1;E4wldMhx2:reJSON('è®¢å•æœªæ”¯ä»˜',404);E4wx1:}}
+?>

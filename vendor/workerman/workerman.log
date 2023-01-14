@@ -1,0 +1,895 @@
+2020-11-13 10:20:09 pid:32307 Workerman[worker.php] start in DEBUG mode
+2020-11-13 10:20:18 pid:32307 Workerman[worker.php] stopping ...
+2020-11-13 10:20:18 pid:32307 Workerman[worker.php] has been stopped
+2020-11-13 10:20:32 pid:32361 Workerman[worker.php] restart 
+2020-11-13 10:20:32 pid:32361 Workerman[worker.php] is stopping ...
+2020-11-13 10:20:32 pid:32361 Workerman[worker.php] stop success
+2020-11-13 10:20:34 pid:32367 Workerman[worker.php] start in DAEMON mode
+2020-11-13 10:23:29 pid:32733 Workerman[worker.php] start in DAEMON mode
+2020-11-13 10:25:33 pid:656 Workerman[worker.php] start in DAEMON mode
+2020-11-13 10:26:58 pid:852 Workerman[worker.php] start in DAEMON mode
+2020-11-13 10:55:58 pid:4461 Workerman[worker.php] stop 
+2020-11-13 10:55:58 pid:4461 Workerman[worker.php] is stopping ...
+2020-11-13 10:55:58 pid:854 Workerman[worker.php] stopping ...
+2020-11-13 10:55:58 pid:854 Workerman[worker.php] has been stopped
+2020-11-13 10:55:58 pid:4461 Workerman[worker.php] stop success
+2020-11-13 10:56:39 pid:4540 Workerman[worker.php] start in DAEMON mode
+2020-11-16 09:43:02 pid:18078 Workerman[worker.php] restart 
+2020-11-16 09:43:02 pid:18078 Workerman[worker.php] is stopping ...
+2020-11-16 09:43:02 pid:4543 Workerman[worker.php] stopping ...
+2020-11-16 09:43:02 pid:4543 Workerman[worker.php] has been stopped
+2020-11-16 09:43:02 pid:18078 Workerman[worker.php] stop success
+2020-11-16 16:47:34 pid:14320 Workerman[worker.php] start in DAEMON mode
+2020-11-16 16:48:19 pid:14402 Workerman[worker.php] start in DAEMON mode
+2020-11-16 16:48:36 pid:14433 Workerman[worker.php] start in DAEMON mode
+2020-11-16 16:48:39 pid:14438 Workerman[worker.php] restart 
+2020-11-16 16:48:39 pid:14438 Workerman[worker.php] is stopping ...
+2020-11-16 16:48:39 pid:14438 Workerman[worker.php] stop success
+2020-11-16 16:50:51 pid:14902 Workerman[worker.php] start in DAEMON mode
+2020-11-16 16:51:33 pid:14992 Workerman[worker.php] restart 
+2020-11-16 16:51:33 pid:14992 Workerman[worker.php] is stopping ...
+2020-11-16 16:51:33 pid:14904 Workerman[worker.php] stopping ...
+2020-11-16 16:51:38 pid:14992 Workerman[worker.php] stop fail
+2020-11-16 16:51:38 pid:15005 Workerman[worker.php] restart 
+2020-11-16 16:51:38 pid:15005 Workerman[worker.php] is stopping ...
+2020-11-16 16:51:38 pid:14904 Workerman[worker.php] stopping ...
+2020-11-16 16:51:43 pid:15005 Workerman[worker.php] stop fail
+2020-11-16 16:51:51 pid:15030 Workerman[worker.php] restart 
+2020-11-16 16:51:51 pid:15030 Workerman[worker.php] is stopping ...
+2020-11-16 16:51:51 pid:14904 Workerman[worker.php] stopping ...
+2020-11-16 16:51:56 pid:15030 Workerman[worker.php] stop fail
+2020-11-16 16:52:02 pid:15049 Workerman[worker.php] start in DAEMON mode
+2020-11-16 16:52:02 pid:15049 Workerman[worker.php] already running
+2020-11-16 16:52:28 pid:15098 Workerman[worker.php] restart 
+2020-11-16 16:52:28 pid:15098 Workerman[worker.php] is stopping ...
+2020-11-16 16:52:28 pid:14904 Workerman[worker.php] stopping ...
+2020-11-16 16:52:33 pid:15098 Workerman[worker.php] stop fail
+2020-11-16 16:53:42 pid:15333 Workerman[worker.php] stop 
+2020-11-16 16:53:42 pid:15333 Workerman[worker.php] is stopping ...
+2020-11-16 16:53:42 pid:14904 Workerman[worker.php] stopping ...
+2020-11-16 16:53:47 pid:15333 Workerman[worker.php] stop fail
+2020-11-16 16:53:53 pid:15353 Workerman[worker.php] start in DEBUG mode
+2020-11-16 16:53:53 pid:15353 Workerman[worker.php] already running
+2020-11-16 16:54:03 pid:15372 Workerman[worker.php] stop 
+2020-11-16 16:54:03 pid:15372 Workerman[worker.php] is stopping ...
+2020-11-16 16:54:03 pid:14904 Workerman[worker.php] stopping ...
+2020-11-16 16:54:08 pid:15372 Workerman[worker.php] stop fail
+2020-11-16 16:54:43 pid:15446 Workerman[worker.php] restart 
+2020-11-16 16:54:43 pid:15446 Workerman[worker.php] is stopping ...
+2020-11-16 16:54:43 pid:14904 Workerman[worker.php] stopping ...
+2020-11-16 16:54:48 pid:15446 Workerman[worker.php] stop fail
+2020-11-16 16:55:03 pid:15483 Workerman[worker.php] status 
+2020-11-16 16:59:10 pid:16072 Workerman[worker.php] status 
+2020-11-16 16:59:25 pid:16099 Workerman[worker.php] stop 
+2020-11-16 16:59:25 pid:16099 Workerman[worker.php] is stopping ...
+2020-11-16 16:59:25 pid:14904 Workerman[worker.php] stopping ...
+2020-11-16 16:59:30 pid:16099 Workerman[worker.php] stop fail
+2020-11-16 17:00:04 pid:16174 Workerman[worker.php] stop 
+2020-11-16 17:00:04 pid:16174 Workerman[worker.php] is stopping ...
+2020-11-16 17:00:04 pid:14904 Workerman[worker.php] stopping ...
+2020-11-16 17:00:09 pid:16174 Workerman[worker.php] stop fail
+2020-11-16 17:02:22 pid:16452 Workerman[worker.php] stop 
+2020-11-16 17:02:22 pid:16452 Workerman[worker.php] not run
+2020-11-16 17:02:36 pid:16477 Workerman[worker.php] start in DEBUG mode
+2020-11-16 17:02:44 pid:16477 Workerman[worker.php] stopping ...
+2020-11-16 17:02:45 pid:16477 Workerman[worker.php] stopping ...
+2020-11-16 17:02:57 pid:16477 Workerman[worker.php] stopping ...
+2020-11-16 17:02:57 pid:16477 Workerman[worker.php] stopping ...
+2020-11-16 17:04:22 pid:16842 Workerman[worker.php] start in DEBUG mode
+2020-11-16 17:04:22 pid:16842 Workerman[worker.php] already running
+2020-11-16 17:04:35 pid:16867 Workerman[worker.php] status 
+2020-11-16 17:04:49 pid:16894 Workerman[worker.php] stop 
+2020-11-16 17:04:49 pid:16894 Workerman[worker.php] is stopping ...
+2020-11-16 17:04:49 pid:16477 Workerman[worker.php] stopping ...
+2020-11-16 17:04:54 pid:16894 Workerman[worker.php] stop fail
+2020-11-16 17:05:06 pid:16925 Workerman[worker.php] start in DEBUG mode
+2020-11-16 17:05:14 pid:16925 Workerman[worker.php] stopping ...
+2020-11-16 17:05:14 pid:16925 Workerman[worker.php] has been stopped
+2020-11-16 17:11:55 pid:17678 Workerman[worker.php] start in DAEMON mode
+2020-11-26 08:29:25 pid:17684 Worker[17684] process terminated with ERROR: E_ERROR "Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 741"
+2020-11-26 08:29:25 pid:17680 worker[SignBusinessWorker:17684] exit with status 65280
+2020-11-26 08:29:25 pid:17685 Worker[17685] process terminated with ERROR: E_ERROR "Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 741"
+2020-11-26 08:29:25 pid:17680 worker[SignBusinessWorker:17685] exit with status 65280
+2020-11-26 08:29:26 pid:17682 Worker[17682] process terminated with ERROR: E_ERROR "Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 741"
+2020-11-26 08:29:26 pid:17680 worker[SignBusinessWorker:17682] exit with status 65280
+2020-11-26 08:29:27 pid:17681 Worker[17681] process terminated with ERROR: E_ERROR "Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 741"
+2020-11-26 08:29:27 pid:17680 worker[SignBusinessWorker:17681] exit with status 65280
+2020-12-01 22:16:15 pid:1754 Worker[1754] process terminated with ERROR: E_ERROR "Uncaught think\db\exception\PDOException: SQLSTATE[70100]: <<Unknown error>>: 1317 Query execution was interrupted in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php:768
+Stack trace:
+#0 /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php(688): think\db\PDOConnection->getPDOStatement('SELECT * FROM `...', Array, false, false)
+#1 /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php(843): think\db\PDOConnection->pdoQuery(Object(think\db\Query), 'SELECT * FROM `...')
+#2 /home/567fenfa.com/vendor/topthink/think-orm/src/db/BaseQuery.php(1127): think\db\PDOConnection->find(Object(think\db\Query))
+#3 /home/567fenfa.com/Events.php(9): think\db\BaseQuery->find()
+#4 /home/567fenfa.com/vendor/workerman/workerman/Events/Select.php(232): Events::{closure}()
+#5 /home/567fenfa.com/vendor/workerman/workerman/Events/Select.php(281): Workerman\Events\Select->tick()
+#6 /home/567fenfa.com/vendor/workerman/workerman/Worker.php(2430): Workerman\Events\Select->loop()
+#7 /home/ in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 768"
+2020-12-01 22:16:15 pid:1759 Worker[1759] process terminated with ERROR: E_ERROR "Uncaught think\db\exception\PDOException: SQLSTATE[70100]: <<Unknown error>>: 1317 Query execution was interrupted in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php:768
+Stack trace:
+#0 /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php(688): think\db\PDOConnection->getPDOStatement('SELECT * FROM `...', Array, false, false)
+#1 /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php(843): think\db\PDOConnection->pdoQuery(Object(think\db\Query), 'SELECT * FROM `...')
+#2 /home/567fenfa.com/vendor/topthink/think-orm/src/db/BaseQuery.php(1127): think\db\PDOConnection->find(Object(think\db\Query))
+#3 /home/567fenfa.com/Events.php(9): think\db\BaseQuery->find()
+#4 /home/567fenfa.com/vendor/workerman/workerman/Events/Select.php(232): Events::{closure}()
+#5 /home/567fenfa.com/vendor/workerman/workerman/Events/Select.php(281): Workerman\Events\Select->tick()
+#6 /home/567fenfa.com/vendor/workerman/workerman/Worker.php(2430): Workerman\Events\Select->loop()
+#7 /home/ in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 768"
+2020-12-01 22:16:15 pid:17680 worker[SignBusinessWorker:1754] exit with status 65280
+2020-12-01 22:16:15 pid:1753 Worker[1753] process terminated with ERROR: E_ERROR "Uncaught think\db\exception\PDOException: SQLSTATE[70100]: <<Unknown error>>: 1317 Query execution was interrupted in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php:768
+Stack trace:
+#0 /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php(688): think\db\PDOConnection->getPDOStatement('SELECT * FROM `...', Array, false, false)
+#1 /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php(843): think\db\PDOConnection->pdoQuery(Object(think\db\Query), 'SELECT * FROM `...')
+#2 /home/567fenfa.com/vendor/topthink/think-orm/src/db/BaseQuery.php(1127): think\db\PDOConnection->find(Object(think\db\Query))
+#3 /home/567fenfa.com/Events.php(9): think\db\BaseQuery->find()
+#4 /home/567fenfa.com/vendor/workerman/workerman/Events/Select.php(232): Events::{closure}()
+#5 /home/567fenfa.com/vendor/workerman/workerman/Events/Select.php(281): Workerman\Events\Select->tick()
+#6 /home/567fenfa.com/vendor/workerman/workerman/Worker.php(2430): Workerman\Events\Select->loop()
+#7 /home/ in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 768"
+2020-12-01 22:16:15 pid:17680 worker[SignBusinessWorker:1759] exit with status 65280
+2020-12-01 22:16:15 pid:1757 Worker[1757] process terminated with ERROR: E_ERROR "Uncaught think\db\exception\PDOException: SQLSTATE[70100]: <<Unknown error>>: 1317 Query execution was interrupted in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php:768
+Stack trace:
+#0 /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php(688): think\db\PDOConnection->getPDOStatement('SELECT * FROM `...', Array, false, false)
+#1 /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php(843): think\db\PDOConnection->pdoQuery(Object(think\db\Query), 'SELECT * FROM `...')
+#2 /home/567fenfa.com/vendor/topthink/think-orm/src/db/BaseQuery.php(1127): think\db\PDOConnection->find(Object(think\db\Query))
+#3 /home/567fenfa.com/Events.php(9): think\db\BaseQuery->find()
+#4 /home/567fenfa.com/vendor/workerman/workerman/Events/Select.php(232): Events::{closure}()
+#5 /home/567fenfa.com/vendor/workerman/workerman/Events/Select.php(281): Workerman\Events\Select->tick()
+#6 /home/567fenfa.com/vendor/workerman/workerman/Worker.php(2430): Workerman\Events\Select->loop()
+#7 /home/ in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 768"
+2020-12-01 22:16:15 pid:17680 worker[SignBusinessWorker:1753] exit with status 65280
+2020-12-01 22:16:15 pid:17680 worker[SignBusinessWorker:1757] exit with status 65280
+2020-12-01 22:16:16 pid:16052 Worker[16052] process terminated with ERROR: E_ERROR "Uncaught think\db\exception\PDOException: SQLSTATE[HY000] [2002] Connection refused in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php:768
+Stack trace:
+#0 /home/567fenfa.com/vendor/topthink/think-orm/src/db/connector/Mysql.php(66): think\db\PDOConnection->getPDOStatement('SHOW FULL COLUM...')
+#1 /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php(396): think\db\connector\Mysql->getFields('`prefix_signlog...')
+#2 /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php(336): think\db\PDOConnection->getTableFieldsInfo('prefix_signlog')
+#3 /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php(383): think\db\PDOConnection->getSchemaInfo('prefix_signlog')
+#4 /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php(433): think\db\PDOConnection->getTableInfo('prefix_signlog', 'pk')
+#5 /home/567fenfa.com/vendor/topthink/think-orm/src/db/Query.php(291): think\db\PDOConnection->getPk('prefix_signlog')
+#6 /home/567fenfa.com/vendor/topthink in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 768"
+2020-12-01 22:16:16 pid:16053 Worker[16053] process terminated with ERROR: E_ERROR "Uncaught think\db\exception\PDOException: SQLSTATE[HY000] [2002] Connection refused in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php:768
+Stack trace:
+#0 /home/567fenfa.com/vendor/topthink/think-orm/src/db/connector/Mysql.php(66): think\db\PDOConnection->getPDOStatement('SHOW FULL COLUM...')
+#1 /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php(396): think\db\connector\Mysql->getFields('`prefix_signlog...')
+#2 /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php(336): think\db\PDOConnection->getTableFieldsInfo('prefix_signlog')
+#3 /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php(383): think\db\PDOConnection->getSchemaInfo('prefix_signlog')
+#4 /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php(433): think\db\PDOConnection->getTableInfo('prefix_signlog', 'pk')
+#5 /home/567fenfa.com/vendor/topthink/think-orm/src/db/Query.php(291): think\db\PDOConnection->getPk('prefix_signlog')
+#6 /home/567fenfa.com/vendor/topthink in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 768"
+2020-12-01 22:16:16 pid:17680 worker[SignBusinessWorker:16052] exit with status 65280
+2020-12-01 22:16:16 pid:17680 worker[SignBusinessWorker:16053] exit with status 65280
+2020-12-01 22:16:16 pid:16054 Worker[16054] process terminated with ERROR: E_ERROR "Uncaught think\db\exception\PDOException: SQLSTATE[HY000] [2002] Connection refused in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php:768
+Stack trace:
+#0 /home/567fenfa.com/vendor/topthink/think-orm/src/db/connector/Mysql.php(66): think\db\PDOConnection->getPDOStatement('SHOW FULL COLUM...')
+#1 /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php(396): think\db\connector\Mysql->getFields('`prefix_signlog...')
+#2 /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php(336): think\db\PDOConnection->getTableFieldsInfo('prefix_signlog')
+#3 /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php(383): think\db\PDOConnection->getSchemaInfo('prefix_signlog')
+#4 /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php(433): think\db\PDOConnection->getTableInfo('prefix_signlog', 'pk')
+#5 /home/567fenfa.com/vendor/topthink/think-orm/src/db/Query.php(291): think\db\PDOConnection->getPk('prefix_signlog')
+#6 /home/567fenfa.com/vendor/topthink in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 768"
+2020-12-01 22:16:16 pid:16055 Worker[16055] process terminated with ERROR: E_ERROR "Uncaught think\db\exception\PDOException: SQLSTATE[HY000] [2002] Connection refused in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php:768
+Stack trace:
+#0 /home/567fenfa.com/vendor/topthink/think-orm/src/db/connector/Mysql.php(66): think\db\PDOConnection->getPDOStatement('SHOW FULL COLUM...')
+#1 /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php(396): think\db\connector\Mysql->getFields('`prefix_signlog...')
+#2 /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php(336): think\db\PDOConnection->getTableFieldsInfo('prefix_signlog')
+#3 /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php(383): think\db\PDOConnection->getSchemaInfo('prefix_signlog')
+#4 /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php(433): think\db\PDOConnection->getTableInfo('prefix_signlog', 'pk')
+#5 /home/567fenfa.com/vendor/topthink/think-orm/src/db/Query.php(291): think\db\PDOConnection->getPk('prefix_signlog')
+#6 /home/567fenfa.com/vendor/topthink in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 768"
+2020-12-01 22:16:16 pid:17680 worker[SignBusinessWorker:16054] exit with status 65280
+2020-12-01 22:16:16 pid:17680 worker[SignBusinessWorker:16055] exit with status 65280
+2020-12-01 22:16:17 pid:16059 Worker[16059] process terminated with ERROR: E_ERROR "Uncaught think\db\exception\PDOException: SQLSTATE[HY000] [2002] Connection refused in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php:768
+Stack trace:
+#0 /home/567fenfa.com/vendor/topthink/think-orm/src/db/connector/Mysql.php(66): think\db\PDOConnection->getPDOStatement('SHOW FULL COLUM...')
+#1 /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php(396): think\db\connector\Mysql->getFields('`prefix_signlog...')
+#2 /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php(336): think\db\PDOConnection->getTableFieldsInfo('prefix_signlog')
+#3 /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php(383): think\db\PDOConnection->getSchemaInfo('prefix_signlog')
+#4 /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php(433): think\db\PDOConnection->getTableInfo('prefix_signlog', 'pk')
+#5 /home/567fenfa.com/vendor/topthink/think-orm/src/db/Query.php(291): think\db\PDOConnection->getPk('prefix_signlog')
+#6 /home/567fenfa.com/vendor/topthink in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 768"
+2020-12-01 22:16:17 pid:16060 Worker[16060] process terminated with ERROR: E_ERROR "Uncaught think\db\exception\PDOException: SQLSTATE[HY000] [2002] Connection refused in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php:768
+Stack trace:
+#0 /home/567fenfa.com/vendor/topthink/think-orm/src/db/connector/Mysql.php(66): think\db\PDOConnection->getPDOStatement('SHOW FULL COLUM...')
+#1 /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php(396): think\db\connector\Mysql->getFields('`prefix_signlog...')
+#2 /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php(336): think\db\PDOConnection->getTableFieldsInfo('prefix_signlog')
+#3 /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php(383): think\db\PDOConnection->getSchemaInfo('prefix_signlog')
+#4 /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php(433): think\db\PDOConnection->getTableInfo('prefix_signlog', 'pk')
+#5 /home/567fenfa.com/vendor/topthink/think-orm/src/db/Query.php(291): think\db\PDOConnection->getPk('prefix_signlog')
+#6 /home/567fenfa.com/vendor/topthink in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 768"
+2020-12-01 22:16:17 pid:17680 worker[SignBusinessWorker:16059] exit with status 65280
+2020-12-01 22:16:17 pid:17680 worker[SignBusinessWorker:16060] exit with status 65280
+2020-12-01 22:16:17 pid:16061 Worker[16061] process terminated with ERROR: E_ERROR "Uncaught think\db\exception\PDOException: SQLSTATE[HY000] [2002] Connection refused in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php:768
+Stack trace:
+#0 /home/567fenfa.com/vendor/topthink/think-orm/src/db/connector/Mysql.php(66): think\db\PDOConnection->getPDOStatement('SHOW FULL COLUM...')
+#1 /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php(396): think\db\connector\Mysql->getFields('`prefix_signlog...')
+#2 /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php(336): think\db\PDOConnection->getTableFieldsInfo('prefix_signlog')
+#3 /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php(383): think\db\PDOConnection->getSchemaInfo('prefix_signlog')
+#4 /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php(433): think\db\PDOConnection->getTableInfo('prefix_signlog', 'pk')
+#5 /home/567fenfa.com/vendor/topthink/think-orm/src/db/Query.php(291): think\db\PDOConnection->getPk('prefix_signlog')
+#6 /home/567fenfa.com/vendor/topthink in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 768"
+2020-12-01 22:16:17 pid:17680 worker[SignBusinessWorker:16061] exit with status 65280
+2020-12-01 22:16:17 pid:16062 Worker[16062] process terminated with ERROR: E_ERROR "Uncaught think\db\exception\PDOException: SQLSTATE[HY000] [2002] Connection refused in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php:768
+Stack trace:
+#0 /home/567fenfa.com/vendor/topthink/think-orm/src/db/connector/Mysql.php(66): think\db\PDOConnection->getPDOStatement('SHOW FULL COLUM...')
+#1 /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php(396): think\db\connector\Mysql->getFields('`prefix_signlog...')
+#2 /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php(336): think\db\PDOConnection->getTableFieldsInfo('prefix_signlog')
+#3 /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php(383): think\db\PDOConnection->getSchemaInfo('prefix_signlog')
+#4 /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php(433): think\db\PDOConnection->getTableInfo('prefix_signlog', 'pk')
+#5 /home/567fenfa.com/vendor/topthink/think-orm/src/db/Query.php(291): think\db\PDOConnection->getPk('prefix_signlog')
+#6 /home/567fenfa.com/vendor/topthink in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 768"
+2020-12-01 22:16:17 pid:17680 worker[SignBusinessWorker:16062] exit with status 65280
+2020-12-01 22:16:18 pid:16071 Worker[16071] process terminated with ERROR: E_ERROR "Uncaught think\db\exception\PDOException: SQLSTATE[HY000] [2002] Connection refused in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php:768
+Stack trace:
+#0 /home/567fenfa.com/vendor/topthink/think-orm/src/db/connector/Mysql.php(66): think\db\PDOConnection->getPDOStatement('SHOW FULL COLUM...')
+#1 /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php(396): think\db\connector\Mysql->getFields('`prefix_signlog...')
+#2 /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php(336): think\db\PDOConnection->getTableFieldsInfo('prefix_signlog')
+#3 /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php(383): think\db\PDOConnection->getSchemaInfo('prefix_signlog')
+#4 /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php(433): think\db\PDOConnection->getTableInfo('prefix_signlog', 'pk')
+#5 /home/567fenfa.com/vendor/topthink/think-orm/src/db/Query.php(291): think\db\PDOConnection->getPk('prefix_signlog')
+#6 /home/567fenfa.com/vendor/topthink in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 768"
+2020-12-01 22:16:18 pid:16070 Worker[16070] process terminated with ERROR: E_ERROR "Uncaught think\db\exception\PDOException: SQLSTATE[HY000] [2002] Connection refused in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php:768
+Stack trace:
+#0 /home/567fenfa.com/vendor/topthink/think-orm/src/db/connector/Mysql.php(66): think\db\PDOConnection->getPDOStatement('SHOW FULL COLUM...')
+#1 /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php(396): think\db\connector\Mysql->getFields('`prefix_signlog...')
+#2 /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php(336): think\db\PDOConnection->getTableFieldsInfo('prefix_signlog')
+#3 /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php(383): think\db\PDOConnection->getSchemaInfo('prefix_signlog')
+#4 /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php(433): think\db\PDOConnection->getTableInfo('prefix_signlog', 'pk')
+#5 /home/567fenfa.com/vendor/topthink/think-orm/src/db/Query.php(291): think\db\PDOConnection->getPk('prefix_signlog')
+#6 /home/567fenfa.com/vendor/topthink in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 768"
+2020-12-01 22:16:18 pid:17680 worker[SignBusinessWorker:16071] exit with status 65280
+2020-12-01 22:16:18 pid:17680 worker[SignBusinessWorker:16070] exit with status 65280
+2020-12-01 22:16:18 pid:16072 Worker[16072] process terminated with ERROR: E_ERROR "Uncaught think\db\exception\PDOException: SQLSTATE[HY000] [2002] Connection refused in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php:768
+Stack trace:
+#0 /home/567fenfa.com/vendor/topthink/think-orm/src/db/connector/Mysql.php(66): think\db\PDOConnection->getPDOStatement('SHOW FULL COLUM...')
+#1 /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php(396): think\db\connector\Mysql->getFields('`prefix_signlog...')
+#2 /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php(336): think\db\PDOConnection->getTableFieldsInfo('prefix_signlog')
+#3 /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php(383): think\db\PDOConnection->getSchemaInfo('prefix_signlog')
+#4 /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php(433): think\db\PDOConnection->getTableInfo('prefix_signlog', 'pk')
+#5 /home/567fenfa.com/vendor/topthink/think-orm/src/db/Query.php(291): think\db\PDOConnection->getPk('prefix_signlog')
+#6 /home/567fenfa.com/vendor/topthink in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 768"
+2020-12-01 22:16:18 pid:16075 Worker[16075] process terminated with ERROR: E_ERROR "Uncaught think\db\exception\PDOException: SQLSTATE[HY000] [2002] Connection refused in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php:768
+Stack trace:
+#0 /home/567fenfa.com/vendor/topthink/think-orm/src/db/connector/Mysql.php(66): think\db\PDOConnection->getPDOStatement('SHOW FULL COLUM...')
+#1 /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php(396): think\db\connector\Mysql->getFields('`prefix_signlog...')
+#2 /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php(336): think\db\PDOConnection->getTableFieldsInfo('prefix_signlog')
+#3 /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php(383): think\db\PDOConnection->getSchemaInfo('prefix_signlog')
+#4 /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php(433): think\db\PDOConnection->getTableInfo('prefix_signlog', 'pk')
+#5 /home/567fenfa.com/vendor/topthink/think-orm/src/db/Query.php(291): think\db\PDOConnection->getPk('prefix_signlog')
+#6 /home/567fenfa.com/vendor/topthink in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 768"
+2020-12-01 22:16:18 pid:17680 worker[SignBusinessWorker:16075] exit with status 65280
+2020-12-01 22:16:18 pid:17680 worker[SignBusinessWorker:16072] exit with status 65280
+2020-12-01 22:16:19 pid:16084 Worker[16084] process terminated with ERROR: E_ERROR "Uncaught think\db\exception\PDOException: SQLSTATE[HY000] [2002] Connection refused in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php:768
+Stack trace:
+#0 /home/567fenfa.com/vendor/topthink/think-orm/src/db/connector/Mysql.php(66): think\db\PDOConnection->getPDOStatement('SHOW FULL COLUM...')
+#1 /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php(396): think\db\connector\Mysql->getFields('`prefix_signlog...')
+#2 /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php(336): think\db\PDOConnection->getTableFieldsInfo('prefix_signlog')
+#3 /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php(383): think\db\PDOConnection->getSchemaInfo('prefix_signlog')
+#4 /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php(433): think\db\PDOConnection->getTableInfo('prefix_signlog', 'pk')
+#5 /home/567fenfa.com/vendor/topthink/think-orm/src/db/Query.php(291): think\db\PDOConnection->getPk('prefix_signlog')
+#6 /home/567fenfa.com/vendor/topthink in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 768"
+2020-12-01 22:16:19 pid:16081 Worker[16081] process terminated with ERROR: E_ERROR "Uncaught think\db\exception\PDOException: SQLSTATE[HY000] [2002] Connection refused in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php:768
+Stack trace:
+#0 /home/567fenfa.com/vendor/topthink/think-orm/src/db/connector/Mysql.php(66): think\db\PDOConnection->getPDOStatement('SHOW FULL COLUM...')
+#1 /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php(396): think\db\connector\Mysql->getFields('`prefix_signlog...')
+#2 /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php(336): think\db\PDOConnection->getTableFieldsInfo('prefix_signlog')
+#3 /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php(383): think\db\PDOConnection->getSchemaInfo('prefix_signlog')
+#4 /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php(433): think\db\PDOConnection->getTableInfo('prefix_signlog', 'pk')
+#5 /home/567fenfa.com/vendor/topthink/think-orm/src/db/Query.php(291): think\db\PDOConnection->getPk('prefix_signlog')
+#6 /home/567fenfa.com/vendor/topthink in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 768"
+2020-12-01 22:16:19 pid:17680 worker[SignBusinessWorker:16084] exit with status 65280
+2020-12-01 22:16:19 pid:17680 worker[SignBusinessWorker:16081] exit with status 65280
+2020-12-01 22:16:20 pid:16107 Worker[16107] process terminated with ERROR: E_ERROR "Uncaught think\db\exception\PDOException: SQLSTATE[HY000] [2002] Connection refused in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php:768
+Stack trace:
+#0 /home/567fenfa.com/vendor/topthink/think-orm/src/db/connector/Mysql.php(66): think\db\PDOConnection->getPDOStatement('SHOW FULL COLUM...')
+#1 /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php(396): think\db\connector\Mysql->getFields('`prefix_signlog...')
+#2 /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php(336): think\db\PDOConnection->getTableFieldsInfo('prefix_signlog')
+#3 /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php(383): think\db\PDOConnection->getSchemaInfo('prefix_signlog')
+#4 /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php(433): think\db\PDOConnection->getTableInfo('prefix_signlog', 'pk')
+#5 /home/567fenfa.com/vendor/topthink/think-orm/src/db/Query.php(291): think\db\PDOConnection->getPk('prefix_signlog')
+#6 /home/567fenfa.com/vendor/topthink in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 768"
+2020-12-01 22:16:20 pid:16109 Worker[16109] process terminated with ERROR: E_ERROR "Uncaught think\db\exception\PDOException: SQLSTATE[HY000] [2002] Connection refused in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php:768
+Stack trace:
+#0 /home/567fenfa.com/vendor/topthink/think-orm/src/db/connector/Mysql.php(66): think\db\PDOConnection->getPDOStatement('SHOW FULL COLUM...')
+#1 /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php(396): think\db\connector\Mysql->getFields('`prefix_signlog...')
+#2 /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php(336): think\db\PDOConnection->getTableFieldsInfo('prefix_signlog')
+#3 /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php(383): think\db\PDOConnection->getSchemaInfo('prefix_signlog')
+#4 /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php(433): think\db\PDOConnection->getTableInfo('prefix_signlog', 'pk')
+#5 /home/567fenfa.com/vendor/topthink/think-orm/src/db/Query.php(291): think\db\PDOConnection->getPk('prefix_signlog')
+#6 /home/567fenfa.com/vendor/topthink in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 768"
+2020-12-01 22:16:20 pid:17680 worker[SignBusinessWorker:16107] exit with status 65280
+2020-12-01 22:16:20 pid:17680 worker[SignBusinessWorker:16109] exit with status 65280
+2020-12-11 13:33:49 pid:16749 Worker[16749] process terminated with ERROR: E_ERROR "Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 741"
+2020-12-11 13:33:49 pid:16752 Worker[16752] process terminated with ERROR: E_ERROR "Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 741"
+2020-12-11 13:33:49 pid:16751 Worker[16751] process terminated with ERROR: E_ERROR "Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 741"
+2020-12-11 13:33:49 pid:17680 worker[SignBusinessWorker:16749] exit with status 65280
+2020-12-11 13:33:49 pid:17680 worker[SignBusinessWorker:16752] exit with status 65280
+2020-12-11 13:33:49 pid:17680 worker[SignBusinessWorker:16751] exit with status 65280
+2020-12-11 13:33:51 pid:16750 Worker[16750] process terminated with ERROR: E_ERROR "Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 741"
+2020-12-11 13:33:51 pid:17680 worker[SignBusinessWorker:16750] exit with status 65280
+2020-12-21 04:51:16 pid:9180 Worker[9180] process terminated with ERROR: E_ERROR "Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 741"
+2020-12-21 04:51:16 pid:9178 Worker[9178] process terminated with ERROR: E_ERROR "Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 741"
+2020-12-21 04:51:16 pid:17680 worker[SignBusinessWorker:9180] exit with status 65280
+2020-12-21 04:51:16 pid:9179 Worker[9179] process terminated with ERROR: E_ERROR "Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 741"
+2020-12-21 04:51:16 pid:17680 worker[SignBusinessWorker:9178] exit with status 65280
+2020-12-21 04:51:16 pid:17680 worker[SignBusinessWorker:9179] exit with status 65280
+2020-12-21 04:51:18 pid:9185 Worker[9185] process terminated with ERROR: E_ERROR "Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 741"
+2020-12-21 04:51:18 pid:17680 worker[SignBusinessWorker:9185] exit with status 65280
+2020-12-30 20:08:42 pid:2559 Worker[2559] process terminated with ERROR: E_ERROR "Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 741"
+2020-12-30 20:08:42 pid:17680 worker[SignBusinessWorker:2559] exit with status 65280
+2020-12-30 20:08:42 pid:2560 Worker[2560] process terminated with ERROR: E_ERROR "Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 741"
+2020-12-30 20:08:42 pid:2558 Worker[2558] process terminated with ERROR: E_ERROR "Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 741"
+2020-12-30 20:08:42 pid:17680 worker[SignBusinessWorker:2560] exit with status 65280
+2020-12-30 20:08:42 pid:17680 worker[SignBusinessWorker:2558] exit with status 65280
+2020-12-30 20:08:44 pid:2567 Worker[2567] process terminated with ERROR: E_ERROR "Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 741"
+2020-12-30 20:08:44 pid:17680 worker[SignBusinessWorker:2567] exit with status 65280
+2021-01-09 11:26:20 pid:8231 Worker[8231] process terminated with ERROR: E_ERROR "Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 741"
+2021-01-09 11:26:20 pid:8232 Worker[8232] process terminated with ERROR: E_ERROR "Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 741"
+2021-01-09 11:26:20 pid:17680 worker[SignBusinessWorker:8231] exit with status 65280
+2021-01-09 11:26:20 pid:17680 worker[SignBusinessWorker:8232] exit with status 65280
+2021-01-09 11:26:20 pid:8233 Worker[8233] process terminated with ERROR: E_ERROR "Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 741"
+2021-01-09 11:26:20 pid:17680 worker[SignBusinessWorker:8233] exit with status 65280
+2021-01-09 11:26:21 pid:8238 Worker[8238] process terminated with ERROR: E_ERROR "Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 741"
+2021-01-09 11:26:21 pid:17680 worker[SignBusinessWorker:8238] exit with status 65280
+2021-01-19 02:43:57 pid:3292 Worker[3292] process terminated with ERROR: E_ERROR "Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 741"
+2021-01-19 02:43:57 pid:3291 Worker[3291] process terminated with ERROR: E_ERROR "Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 741"
+2021-01-19 02:43:57 pid:17680 worker[SignBusinessWorker:3291] exit with status 65280
+2021-01-19 02:43:57 pid:17680 worker[SignBusinessWorker:3292] exit with status 65280
+2021-01-19 02:43:58 pid:3294 Worker[3294] process terminated with ERROR: E_ERROR "Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 741"
+2021-01-19 02:43:58 pid:3290 Worker[3290] process terminated with ERROR: E_ERROR "Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 741"
+2021-01-19 02:43:58 pid:17680 worker[SignBusinessWorker:3290] exit with status 65280
+2021-01-19 02:43:58 pid:17680 worker[SignBusinessWorker:3294] exit with status 65280
+2021-01-28 17:41:09 pid:25417 Worker[25417] process terminated with ERROR: E_ERROR "Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 741"
+2021-01-28 17:41:09 pid:17680 worker[SignBusinessWorker:25417] exit with status 65280
+2021-01-28 17:41:10 pid:25423 Worker[25423] process terminated with ERROR: E_ERROR "Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 741"
+2021-01-28 17:41:10 pid:17680 worker[SignBusinessWorker:25423] exit with status 65280
+2021-01-28 17:41:11 pid:25422 Worker[25422] process terminated with ERROR: E_ERROR "Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 741"
+2021-01-28 17:41:11 pid:17680 worker[SignBusinessWorker:25422] exit with status 65280
+2021-01-28 17:41:11 pid:25418 Worker[25418] process terminated with ERROR: E_ERROR "Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 741"
+2021-01-28 17:41:11 pid:17680 worker[SignBusinessWorker:25418] exit with status 65280
+2021-02-07 08:42:01 pid:25791 Worker[25791] process terminated with ERROR: E_ERROR "Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 741"
+2021-02-07 08:42:01 pid:17680 worker[SignBusinessWorker:25791] exit with status 65280
+2021-02-07 08:42:02 pid:25795 Worker[25795] process terminated with ERROR: E_ERROR "Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 741"
+2021-02-07 08:42:02 pid:17680 worker[SignBusinessWorker:25795] exit with status 65280
+2021-02-07 08:42:03 pid:25799 Worker[25799] process terminated with ERROR: E_ERROR "Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 741"
+2021-02-07 08:42:03 pid:25800 Worker[25800] process terminated with ERROR: E_ERROR "Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 741"
+2021-02-07 08:42:03 pid:17680 worker[SignBusinessWorker:25799] exit with status 65280
+2021-02-07 08:42:03 pid:17680 worker[SignBusinessWorker:25800] exit with status 65280
+2021-02-16 23:42:53 pid:16999 Worker[16999] process terminated with ERROR: E_ERROR "Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 741"
+2021-02-16 23:42:53 pid:17680 worker[SignBusinessWorker:16999] exit with status 65280
+2021-02-16 23:42:55 pid:17006 Worker[17006] process terminated with ERROR: E_ERROR "Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 741"
+2021-02-16 23:42:55 pid:17680 worker[SignBusinessWorker:17006] exit with status 65280
+2021-02-16 23:42:55 pid:17005 Worker[17005] process terminated with ERROR: E_ERROR "Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 741"
+2021-02-16 23:42:55 pid:17680 worker[SignBusinessWorker:17005] exit with status 65280
+2021-02-16 23:42:56 pid:17003 Worker[17003] process terminated with ERROR: E_ERROR "Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 741"
+2021-02-16 23:42:56 pid:17680 worker[SignBusinessWorker:17003] exit with status 65280
+2021-02-26 14:43:48 pid:5659 Worker[5659] process terminated with ERROR: E_ERROR "Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 741"
+2021-02-26 14:43:48 pid:5658 Worker[5658] process terminated with ERROR: E_ERROR "Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 741"
+2021-02-26 14:43:48 pid:17680 worker[SignBusinessWorker:5659] exit with status 65280
+2021-02-26 14:43:48 pid:17680 worker[SignBusinessWorker:5658] exit with status 65280
+2021-02-26 14:43:48 pid:5653 Worker[5653] process terminated with ERROR: E_ERROR "Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 741"
+2021-02-26 14:43:48 pid:17680 worker[SignBusinessWorker:5653] exit with status 65280
+2021-02-26 14:43:50 pid:5660 Worker[5660] process terminated with ERROR: E_ERROR "Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 741"
+2021-02-26 14:43:50 pid:17680 worker[SignBusinessWorker:5660] exit with status 65280
+2021-03-08 05:44:42 pid:4492 Worker[4492] process terminated with ERROR: E_ERROR "Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 741"
+2021-03-08 05:44:42 pid:4491 Worker[4491] process terminated with ERROR: E_ERROR "Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 741"
+2021-03-08 05:44:42 pid:4493 Worker[4493] process terminated with ERROR: E_ERROR "Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 741"
+2021-03-08 05:44:42 pid:17680 worker[SignBusinessWorker:4493] exit with status 65280
+2021-03-08 05:44:42 pid:17680 worker[SignBusinessWorker:4491] exit with status 65280
+2021-03-08 05:44:42 pid:17680 worker[SignBusinessWorker:4492] exit with status 65280
+2021-03-08 05:44:45 pid:4498 Worker[4498] process terminated with ERROR: E_ERROR "Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 741"
+2021-03-08 05:44:45 pid:17680 worker[SignBusinessWorker:4498] exit with status 65280
+2021-03-17 20:45:37 pid:7265 Worker[7265] process terminated with ERROR: E_ERROR "Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 741"
+2021-03-17 20:45:37 pid:7264 Worker[7264] process terminated with ERROR: E_ERROR "Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 741"
+2021-03-17 20:45:37 pid:17680 worker[SignBusinessWorker:7265] exit with status 65280
+2021-03-17 20:45:37 pid:17680 worker[SignBusinessWorker:7264] exit with status 65280
+2021-03-17 20:45:38 pid:7266 Worker[7266] process terminated with ERROR: E_ERROR "Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 741"
+2021-03-17 20:45:38 pid:17680 worker[SignBusinessWorker:7266] exit with status 65280
+2021-03-17 20:45:41 pid:7275 Worker[7275] process terminated with ERROR: E_ERROR "Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 741"
+2021-03-17 20:45:41 pid:17680 worker[SignBusinessWorker:7275] exit with status 65280
+2021-03-27 11:46:32 pid:20454 Worker[20454] process terminated with ERROR: E_ERROR "Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 741"
+2021-03-27 11:46:32 pid:20450 Worker[20450] process terminated with ERROR: E_ERROR "Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 741"
+2021-03-27 11:46:32 pid:17680 worker[SignBusinessWorker:20450] exit with status 65280
+2021-03-27 11:46:32 pid:17680 worker[SignBusinessWorker:20454] exit with status 65280
+2021-03-27 11:46:32 pid:20449 Worker[20449] process terminated with ERROR: E_ERROR "Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 741"
+2021-03-27 11:46:32 pid:17680 worker[SignBusinessWorker:20449] exit with status 65280
+2021-03-27 11:46:36 pid:20459 Worker[20459] process terminated with ERROR: E_ERROR "Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 741"
+2021-03-27 11:46:36 pid:17680 worker[SignBusinessWorker:20459] exit with status 65280
+2021-04-06 02:47:27 pid:22881 Worker[22881] process terminated with ERROR: E_ERROR "Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 741"
+2021-04-06 02:47:27 pid:22883 Worker[22883] process terminated with ERROR: E_ERROR "Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 741"
+2021-04-06 02:47:27 pid:22882 Worker[22882] process terminated with ERROR: E_ERROR "Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 741"
+2021-04-06 02:47:27 pid:17680 worker[SignBusinessWorker:22881] exit with status 65280
+2021-04-06 02:47:27 pid:17680 worker[SignBusinessWorker:22882] exit with status 65280
+2021-04-06 02:47:27 pid:17680 worker[SignBusinessWorker:22883] exit with status 65280
+2021-04-06 02:47:31 pid:22891 Worker[22891] process terminated with ERROR: E_ERROR "Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 741"
+2021-04-06 02:47:31 pid:17680 worker[SignBusinessWorker:22891] exit with status 65280
+2021-04-15 17:48:20 pid:23139 Worker[23139] process terminated with ERROR: E_ERROR "Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 741"
+2021-04-15 17:48:20 pid:17680 worker[SignBusinessWorker:23139] exit with status 65280
+2021-04-15 17:48:21 pid:23140 Worker[23140] process terminated with ERROR: E_ERROR "Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 741"
+2021-04-15 17:48:21 pid:17680 worker[SignBusinessWorker:23140] exit with status 65280
+2021-04-15 17:48:21 pid:23141 Worker[23141] process terminated with ERROR: E_ERROR "Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 741"
+2021-04-15 17:48:21 pid:17680 worker[SignBusinessWorker:23141] exit with status 65280
+2021-04-15 17:48:26 pid:23149 Worker[23149] process terminated with ERROR: E_ERROR "Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 741"
+2021-04-15 17:48:26 pid:17680 worker[SignBusinessWorker:23149] exit with status 65280
+2021-04-25 08:49:14 pid:19227 Worker[19227] process terminated with ERROR: E_ERROR "Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 741"
+2021-04-25 08:49:14 pid:17680 worker[SignBusinessWorker:19227] exit with status 65280
+2021-04-25 08:49:15 pid:19231 Worker[19231] process terminated with ERROR: E_ERROR "Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 741"
+2021-04-25 08:49:15 pid:17680 worker[SignBusinessWorker:19231] exit with status 65280
+2021-04-25 08:49:16 pid:19229 Worker[19229] process terminated with ERROR: E_ERROR "Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 741"
+2021-04-25 08:49:16 pid:17680 worker[SignBusinessWorker:19229] exit with status 65280
+2021-04-25 08:49:21 pid:19245 Worker[19245] process terminated with ERROR: E_ERROR "Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 741"
+2021-04-25 08:49:21 pid:17680 worker[SignBusinessWorker:19245] exit with status 65280
+2021-05-04 23:50:06 pid:21690 Worker[21690] process terminated with ERROR: E_ERROR "Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 741"
+2021-05-04 23:50:06 pid:17680 worker[SignBusinessWorker:21690] exit with status 65280
+2021-05-04 23:50:07 pid:21693 Worker[21693] process terminated with ERROR: E_ERROR "Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 741"
+2021-05-04 23:50:07 pid:17680 worker[SignBusinessWorker:21693] exit with status 65280
+2021-05-04 23:50:08 pid:21695 Worker[21695] process terminated with ERROR: E_ERROR "Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 741"
+2021-05-04 23:50:08 pid:17680 worker[SignBusinessWorker:21695] exit with status 65280
+2021-05-04 23:50:13 pid:21714 Worker[21714] process terminated with ERROR: E_ERROR "Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 741"
+2021-05-04 23:50:13 pid:17680 worker[SignBusinessWorker:21714] exit with status 65280
+2021-05-14 14:50:57 pid:2166 Worker[2166] process terminated with ERROR: E_ERROR "Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 741"
+2021-05-14 14:50:57 pid:2162 Worker[2162] process terminated with ERROR: E_ERROR "Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 741"
+2021-05-14 14:50:57 pid:17680 worker[SignBusinessWorker:2162] exit with status 65280
+2021-05-14 14:50:57 pid:17680 worker[SignBusinessWorker:2166] exit with status 65280
+2021-05-14 14:50:59 pid:2168 Worker[2168] process terminated with ERROR: E_ERROR "Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 741"
+2021-05-14 14:50:59 pid:17680 worker[SignBusinessWorker:2168] exit with status 65280
+2021-05-14 14:51:03 pid:2183 Worker[2183] process terminated with ERROR: E_ERROR "Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 741"
+2021-05-14 14:51:03 pid:17680 worker[SignBusinessWorker:2183] exit with status 65280
+2021-05-24 05:51:46 pid:31374 Worker[31374] process terminated with ERROR: E_ERROR "Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 741"
+2021-05-24 05:51:46 pid:31373 Worker[31373] process terminated with ERROR: E_ERROR "Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 741"
+2021-05-24 05:51:46 pid:17680 worker[SignBusinessWorker:31373] exit with status 65280
+2021-05-24 05:51:46 pid:17680 worker[SignBusinessWorker:31374] exit with status 65280
+2021-05-24 05:51:48 pid:31379 Worker[31379] process terminated with ERROR: E_ERROR "Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 741"
+2021-05-24 05:51:48 pid:17680 worker[SignBusinessWorker:31379] exit with status 65280
+2021-05-24 05:51:52 pid:31387 Worker[31387] process terminated with ERROR: E_ERROR "Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/567fenfa.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 741"
+2021-05-24 05:51:52 pid:17680 worker[SignBusinessWorker:31387] exit with status 65280
+2021-06-02 18:39:44 pid:2605 Workerman[worker.php] stop 
+2021-06-02 18:39:44 pid:2605 Workerman[worker.php] is stopping ...
+2021-06-02 18:39:44 pid:17680 Workerman[worker.php] stopping ...
+2021-06-02 18:39:45 pid:17680 Workerman[worker.php] has been stopped
+2021-06-02 18:39:45 pid:2605 Workerman[worker.php] stop success
+2021-08-05 01:24:55 pid:27376 Workerman[worker.php] start in DAEMON mode
+2021-08-21 12:34:19 pid:24991 Workerman[worker.php] stop 
+2021-08-21 12:34:19 pid:24991 Workerman[worker.php] not run
+2021-09-02 14:51:30 pid:29968 Workerman[worker.php] start in DAEMON mode
+2021-09-02 14:51:34 pid:29973 Workerman[worker.php] start in DAEMON mode
+2021-09-02 14:52:05 pid:30072 Workerman[worker.php] start in DAEMON mode
+2021-09-02 14:52:06 pid:30074 Workerman[worker.php] restart 
+2021-09-02 14:52:06 pid:30074 Workerman[worker.php] is stopping ...
+2021-09-02 14:52:06 pid:30074 Workerman[worker.php] stop success
+2021-09-02 14:52:09 pid:30077 Workerman[worker.php] stop 
+2021-09-02 14:52:09 pid:30077 Workerman[worker.php] not run
+2021-09-02 14:52:42 pid:30106 Workerman[worker.php] start in DAEMON mode
+2021-09-02 14:52:47 pid:30111 Workerman[worker.php] start in DAEMON mode
+2021-09-02 14:52:52 pid:30119 Workerman[worker.php] start in DAEMON mode
+2021-09-02 14:57:34 pid:30401 Workerman[worker.php] start in DAEMON mode
+2021-09-05 10:45:02 pid:22745 Workerman[worker.php] stop 
+2021-09-05 10:45:02 pid:22745 Workerman[worker.php] not run
+2021-09-05 10:45:06 pid:22750 Workerman[worker.php] start in DAEMON mode
+2021-09-05 10:45:10 pid:22755 Workerman[worker.php] restart 
+2021-09-05 10:45:10 pid:22755 Workerman[worker.php] is stopping ...
+2021-09-05 10:45:10 pid:22755 Workerman[worker.php] stop success
+2021-09-05 21:21:19 pid:30730 Workerman[worker.php] start in DAEMON mode
+2021-09-05 21:21:52 pid:30763 Workerman[worker.php] stop 
+2021-09-05 21:21:52 pid:30763 Workerman[worker.php] not run
+2021-09-05 21:21:55 pid:30766 Workerman[worker.php] start in DAEMON mode
+2021-09-06 08:30:51 pid:8577 Workerman[worker.php] restart 
+2021-09-06 08:30:51 pid:8577 Workerman[worker.php] is stopping ...
+2021-09-06 08:30:51 pid:8577 Workerman[worker.php] stop success
+2021-09-06 08:31:12 pid:8598 Workerman[worker.php] start in DAEMON mode
+2021-09-06 08:31:16 pid:8603 Workerman[worker.php] start in DAEMON mode
+2021-09-06 08:31:22 pid:8610 Workerman[worker.php] start in DAEMON mode
+2021-09-06 08:31:26 pid:8615 Workerman[worker.php] start in DAEMON mode
+2021-09-06 08:31:30 pid:8620 Workerman[worker.php] restart 
+2021-09-06 08:31:30 pid:8620 Workerman[worker.php] is stopping ...
+2021-09-06 08:31:30 pid:8620 Workerman[worker.php] stop success
+2021-09-06 08:31:39 pid:8629 Workerman[worker.php] restart 
+2021-09-06 08:31:39 pid:8629 Workerman[worker.php] is stopping ...
+2021-09-06 08:31:39 pid:8629 Workerman[worker.php] stop success
+2021-09-06 08:31:44 pid:8634 Workerman[worker.php] restart 
+2021-09-06 08:31:44 pid:8634 Workerman[worker.php] is stopping ...
+2021-09-06 08:31:44 pid:8634 Workerman[worker.php] stop success
+2021-09-06 08:34:20 pid:8831 Workerman[worker.php] start in DAEMON mode
+2021-09-06 08:35:32 pid:8903 Workerman[worker.php] restart 
+2021-09-06 08:35:32 pid:8903 Workerman[worker.php] is stopping ...
+2021-09-06 08:35:32 pid:8903 Workerman[worker.php] stop success
+2021-09-06 08:42:23 pid:9331 Workerman[worker.php] restart 
+2021-09-06 08:42:23 pid:9331 Workerman[worker.php] is stopping ...
+2021-09-06 08:42:23 pid:9331 Workerman[worker.php] stop success
+2021-09-06 09:51:14 pid:13843 Workerman[worker.php] start in DAEMON mode
+2021-09-06 10:04:17 pid:14824 Workerman[worker.php] restart 
+2021-09-06 10:04:17 pid:14824 Workerman[worker.php] is stopping ...
+2021-09-06 10:04:17 pid:14824 Workerman[worker.php] stop success
+2021-09-06 10:06:20 pid:15031 Workerman[worker.php] start in DEBUG mode
+2021-09-06 10:08:23 pid:15277 Workerman[worker.php] start in DEBUG mode
+2021-09-06 10:10:09 pid:15577 Workerman[worker.php] start in DEBUG mode
+2021-09-06 10:21:45 pid:17965 Workerman[worker.php] start in DEBUG mode
+2021-09-06 10:22:21 pid:17965 Workerman[worker.php] stopping ...
+2021-09-06 10:22:21 pid:17965 Workerman[worker.php] stopping ...
+2021-09-06 10:23:53 pid:17965 Workerman[worker.php] stopping ...
+2021-09-06 10:23:53 pid:17965 Workerman[worker.php] stopping ...
+2021-09-06 10:29:21 pid:3402 Workerman[worker.php] restart 
+2021-09-06 10:29:21 pid:3402 Workerman[worker.php] is stopping ...
+2021-09-06 10:29:21 pid:3402 Workerman[worker.php] stop success
+2021-09-06 10:29:38 pid:3493 Workerman[worker.php] start in DEBUG mode
+2021-09-06 10:29:53 pid:3493 Workerman[worker.php] stopping ...
+2021-09-06 10:29:53 pid:3493 Workerman[worker.php] stopping ...
+2021-09-06 10:33:12 pid:3687 Workerman[worker.php] start in DEBUG mode
+2021-09-06 10:33:12 pid:3687 Workerman[worker.php] already running
+2021-09-06 10:34:44 pid:3688 Workerman[worker.php] reload 
+2021-09-06 10:34:55 pid:3495 worker[3495] remains 1 connection(s)
+2021-09-06 10:34:55 pid:3495 worker[3495] remains 0 connection(s)
+2021-09-06 10:34:55 pid:3497 worker[3497] remains 1 connection(s)
+2021-09-06 10:34:55 pid:3497 worker[3497] remains 0 connection(s)
+2021-09-06 10:34:55 pid:3496 worker[3496] remains 1 connection(s)
+2021-09-06 10:34:55 pid:3496 worker[3496] remains 0 connection(s)
+2021-09-06 10:34:59 pid:3493 Workerman[worker.php] stopping ...
+2021-09-06 10:34:59 pid:3493 Workerman[worker.php] stopping ...
+2021-09-06 10:34:59 pid:3493 Workerman[worker.php] has been stopped
+2021-09-06 10:38:57 pid:3407 Workerman[worker.php] restart 
+2021-09-06 10:38:57 pid:3407 Workerman[worker.php] is stopping ...
+2021-09-06 10:38:57 pid:3407 Workerman[worker.php] stop success
+2021-09-06 10:39:05 pid:3431 Workerman[worker.php] start in DAEMON mode
+2021-09-06 10:39:05 pid:3431 Workerman[worker.php] already running
+2021-09-06 10:39:21 pid:3414 Register auth timeout (127.0.0.1). See http://doc2.workerman.net/register-auth-timeout.html
+2021-09-06 11:20:55 pid:3414 Register auth timeout (127.0.0.1). See http://doc2.workerman.net/register-auth-timeout.html
+2021-09-06 13:33:36 pid:3413 Worker[3413] process terminated with ERROR: E_ERROR "Uncaught think\db\exception\PDOException: SQLSTATE[70100]: <<Unknown error>>: 1317 Query execution was interrupted in /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php:768
+Stack trace:
+#0 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(688): think\db\PDOConnection->getPDOStatement('SELECT * FROM `...', Array, false, false)
+#1 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(843): think\db\PDOConnection->pdoQuery(Object(think\db\Query), 'SELECT * FROM `...')
+#2 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/BaseQuery.php(1127): think\db\PDOConnection->find(Object(think\db\Query))
+#3 /www/wwwroot/dfgdgdfg.dsfsdf.com/Events.php(9): think\db\BaseQuery->find()
+#4 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/workerman/workerman/Events/Select.php(232): Events::{closure}()
+#5 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/workerman/workerman/Events/Select.php(281): Workerman\Events\Select->tick()
+#6 /www/ww in /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 768"
+2021-09-06 13:33:36 pid:3409 worker[SignBusinessWorker:3413] exit with status 65280
+2021-09-06 13:33:36 pid:3410 Worker[3410] process terminated with ERROR: E_ERROR "Uncaught think\db\exception\PDOException: SQLSTATE[70100]: <<Unknown error>>: 1317 Query execution was interrupted in /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php:768
+Stack trace:
+#0 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(688): think\db\PDOConnection->getPDOStatement('SELECT * FROM `...', Array, false, false)
+#1 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(843): think\db\PDOConnection->pdoQuery(Object(think\db\Query), 'SELECT * FROM `...')
+#2 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/BaseQuery.php(1127): think\db\PDOConnection->find(Object(think\db\Query))
+#3 /www/wwwroot/dfgdgdfg.dsfsdf.com/Events.php(9): think\db\BaseQuery->find()
+#4 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/workerman/workerman/Events/Select.php(232): Events::{closure}()
+#5 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/workerman/workerman/Events/Select.php(281): Workerman\Events\Select->tick()
+#6 /www/ww in /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 768"
+2021-09-06 13:33:36 pid:3409 worker[SignBusinessWorker:3410] exit with status 65280
+2021-09-06 13:33:36 pid:3411 Worker[3411] process terminated with ERROR: E_ERROR "Uncaught think\db\exception\PDOException: SQLSTATE[70100]: <<Unknown error>>: 1317 Query execution was interrupted in /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php:768
+Stack trace:
+#0 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(688): think\db\PDOConnection->getPDOStatement('SELECT * FROM `...', Array, false, false)
+#1 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(843): think\db\PDOConnection->pdoQuery(Object(think\db\Query), 'SELECT * FROM `...')
+#2 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/BaseQuery.php(1127): think\db\PDOConnection->find(Object(think\db\Query))
+#3 /www/wwwroot/dfgdgdfg.dsfsdf.com/Events.php(9): think\db\BaseQuery->find()
+#4 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/workerman/workerman/Events/Select.php(232): Events::{closure}()
+#5 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/workerman/workerman/Events/Select.php(281): Workerman\Events\Select->tick()
+#6 /www/ww in /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 768"
+2021-09-06 13:33:36 pid:3409 worker[SignBusinessWorker:3411] exit with status 65280
+2021-09-06 13:33:36 pid:3412 Worker[3412] process terminated with ERROR: E_ERROR "Uncaught think\db\exception\PDOException: SQLSTATE[70100]: <<Unknown error>>: 1317 Query execution was interrupted in /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php:768
+Stack trace:
+#0 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(688): think\db\PDOConnection->getPDOStatement('SELECT * FROM `...', Array, false, false)
+#1 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(843): think\db\PDOConnection->pdoQuery(Object(think\db\Query), 'SELECT * FROM `...')
+#2 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/BaseQuery.php(1127): think\db\PDOConnection->find(Object(think\db\Query))
+#3 /www/wwwroot/dfgdgdfg.dsfsdf.com/Events.php(9): think\db\BaseQuery->find()
+#4 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/workerman/workerman/Events/Select.php(232): Events::{closure}()
+#5 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/workerman/workerman/Events/Select.php(281): Workerman\Events\Select->tick()
+#6 /www/ww in /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 768"
+2021-09-06 13:33:36 pid:3409 worker[SignBusinessWorker:3412] exit with status 65280
+2021-09-06 13:33:37 pid:4491 Worker[4491] process terminated with ERROR: E_ERROR "Uncaught think\db\exception\PDOException: SQLSTATE[HY000] [2002] Connection refused in /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php:768
+Stack trace:
+#0 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/connector/Mysql.php(66): think\db\PDOConnection->getPDOStatement('SHOW FULL COLUM...')
+#1 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(396): think\db\connector\Mysql->getFields('`prefix_signlog...')
+#2 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(336): think\db\PDOConnection->getTableFieldsInfo('prefix_signlog')
+#3 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(383): think\db\PDOConnection->getSchemaInfo('prefix_signlog')
+#4 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(433): think\db\PDOConnection->getTableInfo('prefix_signlog', 'pk')
+#5 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/Que in /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 768"
+2021-09-06 13:33:37 pid:3409 worker[SignBusinessWorker:4491] exit with status 65280
+2021-09-06 13:33:37 pid:4492 Worker[4492] process terminated with ERROR: E_ERROR "Uncaught think\db\exception\PDOException: SQLSTATE[HY000] [2002] Connection refused in /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php:768
+Stack trace:
+#0 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/connector/Mysql.php(66): think\db\PDOConnection->getPDOStatement('SHOW FULL COLUM...')
+#1 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(396): think\db\connector\Mysql->getFields('`prefix_signlog...')
+#2 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(336): think\db\PDOConnection->getTableFieldsInfo('prefix_signlog')
+#3 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(383): think\db\PDOConnection->getSchemaInfo('prefix_signlog')
+#4 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(433): think\db\PDOConnection->getTableInfo('prefix_signlog', 'pk')
+#5 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/Que in /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 768"
+2021-09-06 13:33:37 pid:3409 worker[SignBusinessWorker:4492] exit with status 65280
+2021-09-06 13:33:37 pid:4493 Worker[4493] process terminated with ERROR: E_ERROR "Uncaught think\db\exception\PDOException: SQLSTATE[HY000] [2002] Connection refused in /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php:768
+Stack trace:
+#0 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/connector/Mysql.php(66): think\db\PDOConnection->getPDOStatement('SHOW FULL COLUM...')
+#1 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(396): think\db\connector\Mysql->getFields('`prefix_signlog...')
+#2 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(336): think\db\PDOConnection->getTableFieldsInfo('prefix_signlog')
+#3 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(383): think\db\PDOConnection->getSchemaInfo('prefix_signlog')
+#4 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(433): think\db\PDOConnection->getTableInfo('prefix_signlog', 'pk')
+#5 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/Que in /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 768"
+2021-09-06 13:33:37 pid:3409 worker[SignBusinessWorker:4493] exit with status 65280
+2021-09-06 13:33:37 pid:4494 Worker[4494] process terminated with ERROR: E_ERROR "Uncaught think\db\exception\PDOException: SQLSTATE[HY000] [2002] Connection refused in /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php:768
+Stack trace:
+#0 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/connector/Mysql.php(66): think\db\PDOConnection->getPDOStatement('SHOW FULL COLUM...')
+#1 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(396): think\db\connector\Mysql->getFields('`prefix_signlog...')
+#2 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(336): think\db\PDOConnection->getTableFieldsInfo('prefix_signlog')
+#3 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(383): think\db\PDOConnection->getSchemaInfo('prefix_signlog')
+#4 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(433): think\db\PDOConnection->getTableInfo('prefix_signlog', 'pk')
+#5 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/Que in /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 768"
+2021-09-06 13:33:37 pid:3409 worker[SignBusinessWorker:4494] exit with status 65280
+2021-09-06 13:33:38 pid:4497 Worker[4497] process terminated with ERROR: E_ERROR "Uncaught think\db\exception\PDOException: SQLSTATE[HY000] [2002] Connection refused in /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php:768
+Stack trace:
+#0 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/connector/Mysql.php(66): think\db\PDOConnection->getPDOStatement('SHOW FULL COLUM...')
+#1 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(396): think\db\connector\Mysql->getFields('`prefix_signlog...')
+#2 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(336): think\db\PDOConnection->getTableFieldsInfo('prefix_signlog')
+#3 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(383): think\db\PDOConnection->getSchemaInfo('prefix_signlog')
+#4 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(433): think\db\PDOConnection->getTableInfo('prefix_signlog', 'pk')
+#5 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/Que in /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 768"
+2021-09-06 13:33:38 pid:3409 worker[SignBusinessWorker:4497] exit with status 65280
+2021-09-06 13:33:38 pid:4498 Worker[4498] process terminated with ERROR: E_ERROR "Uncaught think\db\exception\PDOException: SQLSTATE[HY000] [2002] Connection refused in /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php:768
+Stack trace:
+#0 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/connector/Mysql.php(66): think\db\PDOConnection->getPDOStatement('SHOW FULL COLUM...')
+#1 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(396): think\db\connector\Mysql->getFields('`prefix_signlog...')
+#2 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(336): think\db\PDOConnection->getTableFieldsInfo('prefix_signlog')
+#3 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(383): think\db\PDOConnection->getSchemaInfo('prefix_signlog')
+#4 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(433): think\db\PDOConnection->getTableInfo('prefix_signlog', 'pk')
+#5 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/Que in /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 768"
+2021-09-06 13:33:38 pid:3409 worker[SignBusinessWorker:4498] exit with status 65280
+2021-09-06 13:33:38 pid:4499 Worker[4499] process terminated with ERROR: E_ERROR "Uncaught think\db\exception\PDOException: SQLSTATE[HY000] [2002] Connection refused in /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php:768
+Stack trace:
+#0 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/connector/Mysql.php(66): think\db\PDOConnection->getPDOStatement('SHOW FULL COLUM...')
+#1 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(396): think\db\connector\Mysql->getFields('`prefix_signlog...')
+#2 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(336): think\db\PDOConnection->getTableFieldsInfo('prefix_signlog')
+#3 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(383): think\db\PDOConnection->getSchemaInfo('prefix_signlog')
+#4 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(433): think\db\PDOConnection->getTableInfo('prefix_signlog', 'pk')
+#5 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/Que in /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 768"
+2021-09-06 13:33:38 pid:3409 worker[SignBusinessWorker:4499] exit with status 65280
+2021-09-06 13:33:38 pid:4500 Worker[4500] process terminated with ERROR: E_ERROR "Uncaught think\db\exception\PDOException: SQLSTATE[HY000] [2002] Connection refused in /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php:768
+Stack trace:
+#0 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/connector/Mysql.php(66): think\db\PDOConnection->getPDOStatement('SHOW FULL COLUM...')
+#1 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(396): think\db\connector\Mysql->getFields('`prefix_signlog...')
+#2 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(336): think\db\PDOConnection->getTableFieldsInfo('prefix_signlog')
+#3 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(383): think\db\PDOConnection->getSchemaInfo('prefix_signlog')
+#4 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(433): think\db\PDOConnection->getTableInfo('prefix_signlog', 'pk')
+#5 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/Que in /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 768"
+2021-09-06 13:33:38 pid:3409 worker[SignBusinessWorker:4500] exit with status 65280
+2021-09-06 13:33:39 pid:4503 Worker[4503] process terminated with ERROR: E_ERROR "Uncaught think\db\exception\PDOException: SQLSTATE[HY000] [2002] Connection refused in /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php:768
+Stack trace:
+#0 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/connector/Mysql.php(66): think\db\PDOConnection->getPDOStatement('SHOW FULL COLUM...')
+#1 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(396): think\db\connector\Mysql->getFields('`prefix_signlog...')
+#2 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(336): think\db\PDOConnection->getTableFieldsInfo('prefix_signlog')
+#3 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(383): think\db\PDOConnection->getSchemaInfo('prefix_signlog')
+#4 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(433): think\db\PDOConnection->getTableInfo('prefix_signlog', 'pk')
+#5 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/Que in /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 768"
+2021-09-06 13:33:39 pid:3409 worker[SignBusinessWorker:4503] exit with status 65280
+2021-09-06 13:33:39 pid:4504 Worker[4504] process terminated with ERROR: E_ERROR "Uncaught think\db\exception\PDOException: SQLSTATE[HY000] [2002] Connection refused in /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php:768
+Stack trace:
+#0 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/connector/Mysql.php(66): think\db\PDOConnection->getPDOStatement('SHOW FULL COLUM...')
+#1 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(396): think\db\connector\Mysql->getFields('`prefix_signlog...')
+#2 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(336): think\db\PDOConnection->getTableFieldsInfo('prefix_signlog')
+#3 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(383): think\db\PDOConnection->getSchemaInfo('prefix_signlog')
+#4 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(433): think\db\PDOConnection->getTableInfo('prefix_signlog', 'pk')
+#5 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/Que in /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 768"
+2021-09-06 13:33:39 pid:3409 worker[SignBusinessWorker:4504] exit with status 65280
+2021-09-06 13:33:39 pid:4505 Worker[4505] process terminated with ERROR: E_ERROR "Uncaught think\db\exception\PDOException: SQLSTATE[HY000] [2002] Connection refused in /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php:768
+Stack trace:
+#0 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/connector/Mysql.php(66): think\db\PDOConnection->getPDOStatement('SHOW FULL COLUM...')
+#1 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(396): think\db\connector\Mysql->getFields('`prefix_signlog...')
+#2 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(336): think\db\PDOConnection->getTableFieldsInfo('prefix_signlog')
+#3 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(383): think\db\PDOConnection->getSchemaInfo('prefix_signlog')
+#4 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(433): think\db\PDOConnection->getTableInfo('prefix_signlog', 'pk')
+#5 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/Que in /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 768"
+2021-09-06 13:33:39 pid:3409 worker[SignBusinessWorker:4505] exit with status 65280
+2021-09-06 13:33:39 pid:4506 Worker[4506] process terminated with ERROR: E_ERROR "Uncaught think\db\exception\PDOException: SQLSTATE[HY000] [2002] Connection refused in /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php:768
+Stack trace:
+#0 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/connector/Mysql.php(66): think\db\PDOConnection->getPDOStatement('SHOW FULL COLUM...')
+#1 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(396): think\db\connector\Mysql->getFields('`prefix_signlog...')
+#2 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(336): think\db\PDOConnection->getTableFieldsInfo('prefix_signlog')
+#3 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(383): think\db\PDOConnection->getSchemaInfo('prefix_signlog')
+#4 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(433): think\db\PDOConnection->getTableInfo('prefix_signlog', 'pk')
+#5 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/Que in /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 768"
+2021-09-06 13:33:39 pid:3409 worker[SignBusinessWorker:4506] exit with status 65280
+2021-09-06 13:33:40 pid:4509 Worker[4509] process terminated with ERROR: E_ERROR "Uncaught think\db\exception\PDOException: SQLSTATE[HY000] [2002] Connection refused in /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php:768
+Stack trace:
+#0 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/connector/Mysql.php(66): think\db\PDOConnection->getPDOStatement('SHOW FULL COLUM...')
+#1 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(396): think\db\connector\Mysql->getFields('`prefix_signlog...')
+#2 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(336): think\db\PDOConnection->getTableFieldsInfo('prefix_signlog')
+#3 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(383): think\db\PDOConnection->getSchemaInfo('prefix_signlog')
+#4 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(433): think\db\PDOConnection->getTableInfo('prefix_signlog', 'pk')
+#5 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/Que in /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 768"
+2021-09-06 13:33:40 pid:3409 worker[SignBusinessWorker:4509] exit with status 65280
+2021-09-06 13:33:40 pid:4514 Worker[4514] process terminated with ERROR: E_ERROR "Uncaught think\db\exception\PDOException: SQLSTATE[HY000] [2002] Connection refused in /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php:768
+Stack trace:
+#0 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/connector/Mysql.php(66): think\db\PDOConnection->getPDOStatement('SHOW FULL COLUM...')
+#1 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(396): think\db\connector\Mysql->getFields('`prefix_signlog...')
+#2 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(336): think\db\PDOConnection->getTableFieldsInfo('prefix_signlog')
+#3 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(383): think\db\PDOConnection->getSchemaInfo('prefix_signlog')
+#4 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(433): think\db\PDOConnection->getTableInfo('prefix_signlog', 'pk')
+#5 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/Que in /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 768"
+2021-09-06 13:33:40 pid:3409 worker[SignBusinessWorker:4514] exit with status 65280
+2021-09-06 13:33:40 pid:4515 Worker[4515] process terminated with ERROR: E_ERROR "Uncaught think\db\exception\PDOException: SQLSTATE[HY000] [2002] Connection refused in /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php:768
+Stack trace:
+#0 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/connector/Mysql.php(66): think\db\PDOConnection->getPDOStatement('SHOW FULL COLUM...')
+#1 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(396): think\db\connector\Mysql->getFields('`prefix_signlog...')
+#2 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(336): think\db\PDOConnection->getTableFieldsInfo('prefix_signlog')
+#3 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(383): think\db\PDOConnection->getSchemaInfo('prefix_signlog')
+#4 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(433): think\db\PDOConnection->getTableInfo('prefix_signlog', 'pk')
+#5 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/Que in /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 768"
+2021-09-06 13:33:40 pid:3409 worker[SignBusinessWorker:4515] exit with status 65280
+2021-09-06 13:33:40 pid:4516 Worker[4516] process terminated with ERROR: E_ERROR "Uncaught think\db\exception\PDOException: SQLSTATE[HY000] [2002] Connection refused in /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php:768
+Stack trace:
+#0 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/connector/Mysql.php(66): think\db\PDOConnection->getPDOStatement('SHOW FULL COLUM...')
+#1 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(396): think\db\connector\Mysql->getFields('`prefix_signlog...')
+#2 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(336): think\db\PDOConnection->getTableFieldsInfo('prefix_signlog')
+#3 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(383): think\db\PDOConnection->getSchemaInfo('prefix_signlog')
+#4 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(433): think\db\PDOConnection->getTableInfo('prefix_signlog', 'pk')
+#5 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/Que in /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 768"
+2021-09-06 13:33:40 pid:3409 worker[SignBusinessWorker:4516] exit with status 65280
+2021-09-06 13:33:41 pid:4546 Worker[4546] process terminated with ERROR: E_ERROR "Uncaught think\db\exception\PDOException: SQLSTATE[HY000] [2002] Connection refused in /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php:768
+Stack trace:
+#0 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/connector/Mysql.php(66): think\db\PDOConnection->getPDOStatement('SHOW FULL COLUM...')
+#1 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(396): think\db\connector\Mysql->getFields('`prefix_signlog...')
+#2 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(336): think\db\PDOConnection->getTableFieldsInfo('prefix_signlog')
+#3 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(383): think\db\PDOConnection->getSchemaInfo('prefix_signlog')
+#4 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(433): think\db\PDOConnection->getTableInfo('prefix_signlog', 'pk')
+#5 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/Que in /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 768"
+2021-09-06 13:33:41 pid:3409 worker[SignBusinessWorker:4546] exit with status 65280
+2021-09-06 13:33:41 pid:4645 Worker[4645] process terminated with ERROR: E_ERROR "Uncaught think\db\exception\PDOException: SQLSTATE[HY000] [2002] Connection refused in /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php:768
+Stack trace:
+#0 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/connector/Mysql.php(66): think\db\PDOConnection->getPDOStatement('SHOW FULL COLUM...')
+#1 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(396): think\db\connector\Mysql->getFields('`prefix_signlog...')
+#2 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(336): think\db\PDOConnection->getTableFieldsInfo('prefix_signlog')
+#3 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(383): think\db\PDOConnection->getSchemaInfo('prefix_signlog')
+#4 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(433): think\db\PDOConnection->getTableInfo('prefix_signlog', 'pk')
+#5 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/Que in /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 768"
+2021-09-06 13:33:41 pid:3409 worker[SignBusinessWorker:4645] exit with status 65280
+2021-09-06 13:33:41 pid:4646 Worker[4646] process terminated with ERROR: E_ERROR "Uncaught think\db\exception\PDOException: SQLSTATE[HY000] [2002] Connection refused in /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php:768
+Stack trace:
+#0 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/connector/Mysql.php(66): think\db\PDOConnection->getPDOStatement('SHOW FULL COLUM...')
+#1 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(396): think\db\connector\Mysql->getFields('`prefix_signlog...')
+#2 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(336): think\db\PDOConnection->getTableFieldsInfo('prefix_signlog')
+#3 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(383): think\db\PDOConnection->getSchemaInfo('prefix_signlog')
+#4 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(433): think\db\PDOConnection->getTableInfo('prefix_signlog', 'pk')
+#5 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/Que in /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 768"
+2021-09-06 13:33:41 pid:3409 worker[SignBusinessWorker:4646] exit with status 65280
+2021-09-06 13:33:41 pid:4647 Worker[4647] process terminated with ERROR: E_ERROR "Uncaught think\db\exception\PDOException: SQLSTATE[HY000] [2002] Connection refused in /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php:768
+Stack trace:
+#0 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/connector/Mysql.php(66): think\db\PDOConnection->getPDOStatement('SHOW FULL COLUM...')
+#1 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(396): think\db\connector\Mysql->getFields('`prefix_signlog...')
+#2 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(336): think\db\PDOConnection->getTableFieldsInfo('prefix_signlog')
+#3 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(383): think\db\PDOConnection->getSchemaInfo('prefix_signlog')
+#4 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(433): think\db\PDOConnection->getTableInfo('prefix_signlog', 'pk')
+#5 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/Que in /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 768"
+2021-09-06 13:33:41 pid:3409 worker[SignBusinessWorker:4647] exit with status 65280
+2021-09-06 13:33:42 pid:4683 Worker[4683] process terminated with ERROR: E_ERROR "Uncaught think\db\exception\PDOException: SQLSTATE[HY000] [2002] Connection refused in /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php:768
+Stack trace:
+#0 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/connector/Mysql.php(66): think\db\PDOConnection->getPDOStatement('SHOW FULL COLUM...')
+#1 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(396): think\db\connector\Mysql->getFields('`prefix_signlog...')
+#2 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(336): think\db\PDOConnection->getTableFieldsInfo('prefix_signlog')
+#3 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(383): think\db\PDOConnection->getSchemaInfo('prefix_signlog')
+#4 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(433): think\db\PDOConnection->getTableInfo('prefix_signlog', 'pk')
+#5 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/Que in /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 768"
+2021-09-06 13:33:42 pid:3409 worker[SignBusinessWorker:4683] exit with status 65280
+2021-09-06 13:33:42 pid:4754 Worker[4754] process terminated with ERROR: E_ERROR "Uncaught think\db\exception\PDOException: SQLSTATE[HY000] [2002] Connection refused in /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php:768
+Stack trace:
+#0 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/connector/Mysql.php(66): think\db\PDOConnection->getPDOStatement('SHOW FULL COLUM...')
+#1 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(396): think\db\connector\Mysql->getFields('`prefix_signlog...')
+#2 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(336): think\db\PDOConnection->getTableFieldsInfo('prefix_signlog')
+#3 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(383): think\db\PDOConnection->getSchemaInfo('prefix_signlog')
+#4 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(433): think\db\PDOConnection->getTableInfo('prefix_signlog', 'pk')
+#5 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/Que in /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 768"
+2021-09-06 13:33:42 pid:3409 worker[SignBusinessWorker:4754] exit with status 65280
+2021-09-06 13:33:42 pid:4755 Worker[4755] process terminated with ERROR: E_ERROR "Uncaught think\db\exception\PDOException: SQLSTATE[HY000] [2002] Connection refused in /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php:768
+Stack trace:
+#0 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/connector/Mysql.php(66): think\db\PDOConnection->getPDOStatement('SHOW FULL COLUM...')
+#1 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(396): think\db\connector\Mysql->getFields('`prefix_signlog...')
+#2 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(336): think\db\PDOConnection->getTableFieldsInfo('prefix_signlog')
+#3 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(383): think\db\PDOConnection->getSchemaInfo('prefix_signlog')
+#4 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(433): think\db\PDOConnection->getTableInfo('prefix_signlog', 'pk')
+#5 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/Que in /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 768"
+2021-09-06 13:33:42 pid:3409 worker[SignBusinessWorker:4755] exit with status 65280
+2021-09-06 13:33:42 pid:4756 Worker[4756] process terminated with ERROR: E_ERROR "Uncaught think\db\exception\PDOException: SQLSTATE[HY000] [2002] Connection refused in /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php:768
+Stack trace:
+#0 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/connector/Mysql.php(66): think\db\PDOConnection->getPDOStatement('SHOW FULL COLUM...')
+#1 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(396): think\db\connector\Mysql->getFields('`prefix_signlog...')
+#2 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(336): think\db\PDOConnection->getTableFieldsInfo('prefix_signlog')
+#3 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(383): think\db\PDOConnection->getSchemaInfo('prefix_signlog')
+#4 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(433): think\db\PDOConnection->getTableInfo('prefix_signlog', 'pk')
+#5 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/Que in /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 768"
+2021-09-06 13:33:42 pid:3409 worker[SignBusinessWorker:4756] exit with status 65280
+2021-09-06 13:33:44 pid:3409 Workerman[worker.php] stopping ...
+2021-09-06 13:33:44 pid:4795 Worker[4795] process terminated with ERROR: E_ERROR "Uncaught think\db\exception\PDOException: SQLSTATE[HY000] [2002] Operation now in progress in /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php:768
+Stack trace:
+#0 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/connector/Mysql.php(66): think\db\PDOConnection->getPDOStatement('SHOW FULL COLUM...')
+#1 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(396): think\db\connector\Mysql->getFields('`prefix_signlog...')
+#2 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(336): think\db\PDOConnection->getTableFieldsInfo('prefix_signlog')
+#3 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(383): think\db\PDOConnection->getSchemaInfo('prefix_signlog')
+#4 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(433): think\db\PDOConnection->getTableInfo('prefix_signlog', 'pk')
+#5 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src in /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 768"
+2021-09-06 13:33:44 pid:4854 Worker[4854] process terminated with ERROR: E_ERROR "Uncaught think\db\exception\PDOException: SQLSTATE[HY000] [2002] Operation now in progress in /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php:768
+Stack trace:
+#0 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/connector/Mysql.php(66): think\db\PDOConnection->getPDOStatement('SHOW FULL COLUM...')
+#1 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(396): think\db\connector\Mysql->getFields('`prefix_signlog...')
+#2 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(336): think\db\PDOConnection->getTableFieldsInfo('prefix_signlog')
+#3 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(383): think\db\PDOConnection->getSchemaInfo('prefix_signlog')
+#4 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(433): think\db\PDOConnection->getTableInfo('prefix_signlog', 'pk')
+#5 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src in /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 768"
+2021-09-06 13:33:44 pid:4840 Worker[4840] process terminated with ERROR: E_ERROR "Uncaught think\db\exception\PDOException: SQLSTATE[HY000] [2002] Operation now in progress in /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php:768
+Stack trace:
+#0 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/connector/Mysql.php(66): think\db\PDOConnection->getPDOStatement('SHOW FULL COLUM...')
+#1 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(396): think\db\connector\Mysql->getFields('`prefix_signlog...')
+#2 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(336): think\db\PDOConnection->getTableFieldsInfo('prefix_signlog')
+#3 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(383): think\db\PDOConnection->getSchemaInfo('prefix_signlog')
+#4 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(433): think\db\PDOConnection->getTableInfo('prefix_signlog', 'pk')
+#5 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src in /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 768"
+2021-09-06 13:33:44 pid:4852 Worker[4852] process terminated with ERROR: E_ERROR "Uncaught think\db\exception\PDOException: SQLSTATE[HY000] [2002] Operation now in progress in /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php:768
+Stack trace:
+#0 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/connector/Mysql.php(66): think\db\PDOConnection->getPDOStatement('SHOW FULL COLUM...')
+#1 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(396): think\db\connector\Mysql->getFields('`prefix_signlog...')
+#2 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(336): think\db\PDOConnection->getTableFieldsInfo('prefix_signlog')
+#3 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(383): think\db\PDOConnection->getSchemaInfo('prefix_signlog')
+#4 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php(433): think\db\PDOConnection->getTableInfo('prefix_signlog', 'pk')
+#5 /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src in /www/wwwroot/dfgdgdfg.dsfsdf.com/vendor/topthink/think-orm/src/db/PDOConnection.php on line 768"
+2021-09-06 13:33:44 pid:3409 worker[SignBusinessWorker:4840] exit with status 65280
+2021-09-06 13:33:44 pid:3409 worker[SignBusinessWorker:4795] exit with status 65280
+2021-09-06 13:33:44 pid:3409 worker[SignBusinessWorker:4852] exit with status 65280
+2021-09-06 13:33:44 pid:3409 worker[SignBusinessWorker:4854] exit with status 65280
+2021-09-06 13:33:44 pid:3409 Workerman[worker.php] has been stopped
+2021-09-06 13:40:32 pid:3675 Workerman[worker.php] start in DEBUG mode
+2021-09-06 13:40:45 pid:3675 Workerman[worker.php] stopping ...
+2021-09-06 13:40:45 pid:3675 Workerman[worker.php] stopping ...
+2021-09-06 13:42:19 pid:3859 Workerman[worker.php] start in DEBUG mode
+2021-09-06 13:42:19 pid:3859 Workerman[worker.php] already running
+2021-09-06 13:42:26 pid:3860 Workerman[worker.php] reload 
+2021-09-06 13:42:35 pid:3861 Workerman[worker.php] restart 
+2021-09-06 13:42:35 pid:3861 Workerman[worker.php] is stopping ...
+2021-09-06 13:42:35 pid:3861 Workerman[worker.php] stop success
+2021-09-06 13:42:37 pid:3864 Workerman[worker.php] restart 
+2021-09-06 13:42:37 pid:3864 Workerman[worker.php] is stopping ...
+2021-09-06 13:42:37 pid:3864 Workerman[worker.php] stop success
+2021-09-06 13:42:51 pid:3677 worker[3677] remains 1 connection(s)
+2021-09-06 13:42:51 pid:3679 worker[3679] remains 1 connection(s)
+2021-09-06 13:42:51 pid:3677 worker[3677] remains 0 connection(s)
+2021-09-06 13:42:51 pid:3678 worker[3678] remains 1 connection(s)
+2021-09-06 13:42:51 pid:3679 worker[3679] remains 0 connection(s)
+2021-09-06 13:42:51 pid:3678 worker[3678] remains 0 connection(s)
+2021-09-06 13:42:55 pid:3675 Workerman[worker.php] stopping ...
+2021-09-06 13:42:55 pid:3675 Workerman[worker.php] stopping ...
+2021-09-06 13:42:55 pid:3675 Workerman[worker.php] has been stopped
+2021-09-06 13:48:27 pid:3551 Workerman[worker.php] start in DEBUG mode
+2021-09-06 13:48:44 pid:3560 Workerman[worker.php] restart 
+2021-09-06 13:48:44 pid:3560 Workerman[worker.php] is stopping ...
+2021-09-06 13:48:44 pid:3560 Workerman[worker.php] stop success
+2021-09-06 13:48:46 pid:3563 Workerman[worker.php] start in DAEMON mode
+2021-09-06 13:48:50 pid:3566 Workerman[worker.php] stop 
+2021-09-06 13:48:50 pid:3566 Workerman[worker.php] not run
+2021-09-06 13:48:53 pid:3567 Workerman[worker.php] restart 
+2021-09-06 13:48:53 pid:3567 Workerman[worker.php] is stopping ...
+2021-09-06 13:48:53 pid:3567 Workerman[worker.php] stop success
+2021-09-06 13:48:55 pid:3570 Workerman[worker.php] stop 
+2021-09-06 13:48:55 pid:3570 Workerman[worker.php] not run
+2021-09-06 13:48:56 pid:3571 Workerman[worker.php] start in DAEMON mode
+2021-09-06 13:49:04 pid:3551 Workerman[worker.php] stopping ...
+2021-09-06 13:49:04 pid:3551 Workerman[worker.php] has been stopped
+2021-09-06 13:49:53 pid:3654 Workerman[worker.php] reload 
+2021-09-06 13:49:53 pid:3654 Workerman[worker.php] not run
+2021-09-06 13:54:30 pid:3748 Workerman[worker.php] start in DEBUG mode
+2021-09-06 13:55:17 pid:3748 Workerman[worker.php] stopping ...
+2021-09-06 13:55:17 pid:3748 Workerman[worker.php] has been stopped
+2021-09-06 13:55:44 pid:3759 Workerman[worker.php] restart 
+2021-09-06 13:55:44 pid:3759 Workerman[worker.php] is stopping ...
+2021-09-06 13:55:44 pid:3759 Workerman[worker.php] stop success
+2021-09-06 13:57:29 pid:3790 Workerman[worker.php] start in DAEMON mode
+2021-09-06 13:57:29 pid:3790 Workerman[worker.php] already running
+2021-09-06 13:57:32 pid:3766 Register auth timeout (127.0.0.1). See http://doc2.workerman.net/register-auth-timeout.html
+2021-09-06 14:07:10 pid:3766 Register auth timeout (127.0.0.1). See http://doc2.workerman.net/register-auth-timeout.html
+2021-09-06 14:16:51 pid:3766 Register auth timeout (127.0.0.1). See http://doc2.workerman.net/register-auth-timeout.html
+2021-09-06 14:17:16 pid:4299 Workerman[worker.php] start in DEBUG mode
+2021-09-06 14:17:16 pid:4299 Workerman[worker.php] already running
+2021-09-06 14:17:34 pid:3766 Register auth timeout (127.0.0.1). See http://doc2.workerman.net/register-auth-timeout.html
+2021-09-06 14:17:35 pid:3766 Register auth timeout (127.0.0.1). See http://doc2.workerman.net/register-auth-timeout.html
+2021-09-06 14:43:21 pid:3766 Register auth timeout (127.0.0.1). See http://doc2.workerman.net/register-auth-timeout.html
+2021-09-06 15:11:38 pid:3766 Register auth timeout (127.0.0.1). See http://doc2.workerman.net/register-auth-timeout.html
+2021-09-06 15:45:03 pid:3766 Register auth timeout (127.0.0.1). See http://doc2.workerman.net/register-auth-timeout.html
+2021-10-15 01:59:27 pid:4782 Workerman[worker.php] restart 
+2021-10-15 01:59:27 pid:4782 Workerman[worker.php] is stopping ...
+2021-10-15 01:59:27 pid:4782 Workerman[worker.php] stop success
+2021-10-24 14:44:32 pid:4785 Worker[4785] process terminated with ERROR: E_ERROR "Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /www/wwwroot/qijian3.xmygj.cn/vendor/topthink/think-orm/src/db/PDOConnection.php on line 741"
+2021-10-24 14:44:32 pid:4784 worker[SignBusinessWorker:4785] exit with status 65280
+2021-10-24 14:45:45 pid:4786 Worker[4786] process terminated with ERROR: E_ERROR "Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /www/wwwroot/qijian3.xmygj.cn/vendor/topthink/think-orm/src/db/PDOConnection.php on line 741"
+2021-10-24 14:45:45 pid:4784 worker[SignBusinessWorker:4786] exit with status 65280
+2021-10-24 16:31:09 pid:4787 Worker[4787] process terminated with ERROR: E_ERROR "Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /www/wwwroot/qijian3.xmygj.cn/vendor/topthink/think-orm/src/db/PDOConnection.php on line 741"
+2021-10-24 16:31:09 pid:4784 worker[SignBusinessWorker:4787] exit with status 65280
+2021-10-24 16:34:47 pid:4788 Worker[4788] process terminated with ERROR: E_ERROR "Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /www/wwwroot/qijian3.xmygj.cn/vendor/topthink/think-orm/src/db/PDOConnection.php on line 741"
+2021-10-24 16:34:47 pid:4784 worker[SignBusinessWorker:4788] exit with status 65280

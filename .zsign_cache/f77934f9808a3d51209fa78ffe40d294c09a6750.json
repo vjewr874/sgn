@@ -1,0 +1,12 @@
+
+{
+	"bid" : "com.nnsmt.yycylcwm",
+	"changed" : [ "HB/lib.dylib", "embedded.mobileprovision" ],
+	"exec" : "FGCQLibClient-mobile",
+	"files" : [ "HB/lib.dylib" ],
+	"name" : "完美传奇",
+	"path" : "/",
+	"root" : "/home/567fenfa.com/data/ipadir/o_1esni3qdg1mc912ui175h1d68tfv9.ipa/Payload/FGCQLibClient-mobile.app",
+	"sha1" : "K4uCPd6avEM5hizwAPOUDE/kDDc=",
+	"sha2" : "TDgOY0v7qCHpWTzc+WvSTrgSiAgrtuKFKRSQHPw6e5E="
+}

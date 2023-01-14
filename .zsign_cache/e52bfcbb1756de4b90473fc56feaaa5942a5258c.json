@@ -1,0 +1,12 @@
+
+{
+	"bid" : "com.xuanfeng.dsvuelxml",
+	"bver" : "64",
+	"changed" : [ "embedded.mobileprovision" ],
+	"exec" : "DCloud",
+	"name" : "小冰分发",
+	"path" : "/",
+	"root" : "/www/wwwroot/qijian3.xmygj.cn/data/ipadir/o_1fi1ond111jd25t71kdb1uee17hk9.ipa/Payload/DCloud.app",
+	"sha1" : "uRpSFUMAFmXrEm5aas/akrbf7ig=",
+	"sha2" : "fEm831jDkv//6t/vLUBEev/uuEpQ+rpBcflJtT17cv8="
+}

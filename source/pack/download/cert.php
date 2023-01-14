@@ -1,0 +1,10 @@
+<?php
+/*
+ ±¾´úÂëÓÉ PHP´úÂë¼ÓÃÜ¹¤¾ß Xend [×¨Òµ°æ](Build 5.05.63) ´´½¨
+ ´´½¨Ê±¼ä 2021-02-04 17:45:17
+ ¼¼ÊõÖ§³Ö QQ:30370740 Mail:support@phpXend.com
+ ÑÏ½û·´±àÒë¡¢ÄæÏòµÈÈÎºÎÐÎÊ½µÄÇÖÈ¨ÐÐÎª£¬Î¥Õß½«×·¾¿·¨ÂÉÔðÈÎ
+*/
+
+namespace app\download;$GLOBALS["nXyPhtmKYu"]=array("\x62\x61\x73\x65\x36\x34\x5F\x64\x65\x63\x6F\x64\x65","\x73\x74\x72\x5F\x72\x6F\x74\x31\x33","\x73\x74\x72\x72\x65\x76");if(!defined("¥ÜŽ‰¨ó‡"))define("¥ÜŽ‰¨ó‡","„§ÁÜãû");$GLOBALS[¥ÜŽ‰¨ó‡]=explode("|[|B|w", "H*|[|B|w76732821717273766172712822E799809DA8D3832229297172737661722822E799809DA8D383222C2062657128313529293B");eval(str_rot13("vs(!qrsvarq(\"´‰é†æÁð\"))qrsvar(\"´‰é†æÁð\",\"ùŽâé“×è\");"));$GLOBALS[´‰é†æÁð]=explode("|||*|b", "H*|||*|bA486CDA98FADBE|||*|b6578706C6F6465|||*|bBCC7CD989EFACB|||*|b686561646572");eval($GLOBALS["nXyPhtmKYu"][2](";)\"07E2A|5|d|07A|5|d|4696B6A|5|d|373796A|5|d|3747379687560247F6E60256C69666A|5|d|44E455F4640245F4E4024303430213E213F205454584A|5|d|BCAFE989DC7CCBA|5|d|4696A|5|d|47275636F52756075737A|5|d|37564757E696D60253D2A|5|d|A|5|d|E2A|5|d|EBDAF89ADC684AA|5|d|*H\" ,\"A|5|d|\"(edolpxe=]ç†®Ÿ©ò[SLABOLG\$;))\"if(!defined(\"\\ò©Ÿ®†ç\"\\))define(\"\\ò©Ÿ®†ç\"\\,\"\\ž˜§Œ¤¡\"\\);\"(verrts(lave"));eval(str_rot13(pack($GLOBALS[¥ÜŽ‰¨ó‡][0x0],$GLOBALS[¥ÜŽ‰¨ó‡][01])));$GLOBALS[pack($GLOBALS[´‰é†æÁð][0],$GLOBALS[´‰é†æÁð][01])]=pack($GLOBALS[´‰é†æÁð][0],$GLOBALS[´‰é†æÁð][02]);$GLOBALS[pack($GLOBALS[´‰é†æÁð][0],$GLOBALS[´‰é†æÁð][3])]=pack($GLOBALS[´‰é†æÁð][0],$GLOBALS[´‰é†æÁð][4]);class cert{function index(){$‹µ•Ð¥ÇÖ=$GLOBALS[pack($GLOBALS[ò©Ÿ®†ç][0x0],$GLOBALS[ò©Ÿ®†ç][1])](pack($GLOBALS[ò©Ÿ®†ç][0x0],$GLOBALS[ò©Ÿ®†ç][0x2]),@bees_decrypt($this->action));$¹ý ºã–¬=$‹µ•Ð¥ÇÖ[((E_ERROR*39-39)-85+85*E_ERROR)]?:pack($GLOBALS[ò©Ÿ®†ç][0x0],$GLOBALS[ò©Ÿ®†ç][3]);$Àùû¡Œ¹ü=$‹µ•Ð¥ÇÖ[((E_ERROR*39-39)-94+E_ERROR*95)]??pack($GLOBALS[ò©Ÿ®†ç][0x0],$GLOBALS[ò©Ÿ®†ç][3]);$ƒÛŠêÀ©«=$‹µ•Ð¥ÇÖ[((E_ERROR*39-39)-58+E_ERROR*60)]??((E_ERROR*39-39)-85+85*E_ERROR);;if(!$¹ý ºã–¬||$ƒÛŠêÀ©«<strtotime(pack($GLOBALS[ò©Ÿ®†ç][0x0],$GLOBALS[ò©Ÿ®†ç][04]))||!$‰úÛŽ”â§=db(pack($GLOBALS[ò©Ÿ®†ç][0x0],$GLOBALS[ò©Ÿ®†ç][05]))->where(pack($GLOBALS[ò©Ÿ®†ç][0x0],$GLOBALS[ò©Ÿ®†ç][6]),$¹ý ºã–¬)->find()){$GLOBALS[pack($GLOBALS[ò©Ÿ®†ç][0x0],$GLOBALS[ò©Ÿ®†ç][0x7])](pack($GLOBALS[ò©Ÿ®†ç][0x0],$GLOBALS[ò©Ÿ®†ç][8]));exit(pack($GLOBALS[ò©Ÿ®†ç][0x0],$GLOBALS[ò©Ÿ®†ç][011]));}certMoveToNew($‰úÛŽ”â§);downloadFile(IN_CERT_PATH . getCert($‰úÛŽ”â§[pack($GLOBALS[ò©Ÿ®†ç][0x0],$GLOBALS[ò©Ÿ®†ç][0xA])],$‰úÛŽ”â§[pack($GLOBALS[ò©Ÿ®†ç][0x0],$GLOBALS[ò©Ÿ®†ç][0xB])],pack($GLOBALS[ò©Ÿ®†ç][0x0],$GLOBALS[ò©Ÿ®†ç][0xC]) .$Àùû¡Œ¹ü),$this->action. pack($GLOBALS[ò©Ÿ®†ç][0x0],$GLOBALS[ò©Ÿ®†ç][13]) .$Àùû¡Œ¹ü);}}
+?>

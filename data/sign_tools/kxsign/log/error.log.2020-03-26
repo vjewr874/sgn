@@ -1,0 +1,240 @@
+2020-03-26 14:16:42,565 ERROR main net.appuploader.a.a(?:?) {"messageName":"NotLogin","time":1585203402565,"message":"User not login","status":0}
+net.appuploader.b.t: User not login
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2020-03-26 14:16:43,725 ERROR main net.appuploader.a.a(?:?) {"messageName":"NotLogin","time":1585203403724,"message":"User not login","status":0}
+net.appuploader.b.t: User not login
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2020-03-26 14:16:44,226 ERROR main net.appuploader.a.a(?:?) {"messageName":"NotLogin","time":1585203404226,"message":"User not login","status":0}
+net.appuploader.b.t: User not login
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2020-03-26 14:16:44,451 ERROR main net.appuploader.a.a(?:?) {"messageName":"NotLogin","time":1585203404451,"message":"User not login","status":0}
+net.appuploader.b.t: User not login
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2020-03-26 14:16:44,635 ERROR main net.appuploader.a.a(?:?) {"messageName":"NotLogin","time":1585203404635,"message":"User not login","status":0}
+net.appuploader.b.t: User not login
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2020-03-26 14:17:42,747 ERROR main net.appuploader.a.a(?:?) {"messageName":"NotLogin","time":1585203462747,"message":"User not login","status":0}
+net.appuploader.b.t: User not login
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2020-03-26 14:17:43,540 ERROR main net.appuploader.a.a(?:?) {"messageName":"NotLogin","time":1585203463540,"message":"User not login","status":0}
+net.appuploader.b.t: User not login
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2020-03-26 14:17:43,767 ERROR main net.appuploader.a.a(?:?) {"messageName":"NotLogin","time":1585203463767,"message":"User not login","status":0}
+net.appuploader.b.t: User not login
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2020-03-26 14:17:43,947 ERROR main net.appuploader.a.a(?:?) {"messageName":"NotLogin","time":1585203463947,"message":"User not login","status":0}
+net.appuploader.b.t: User not login
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2020-03-26 14:19:19,903 ERROR main net.appuploader.a.a(?:?) {"messageName":"NotLogin","time":1585203559903,"message":"User not login","status":0}
+net.appuploader.b.t: User not login
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2020-03-26 14:21:39,115 ERROR main net.appuploader.a.a(?:?) {"messageName":"NotLogin","time":1585203699114,"message":"User not login","status":0}
+net.appuploader.b.t: User not login
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2020-03-26 14:22:43,338 ERROR main net.appuploader.a.a(?:?) {"messageName":"NotLogin","time":1585203763338,"message":"User not login","status":0}
+net.appuploader.b.t: User not login
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2020-03-26 14:23:11,450 ERROR main net.appuploader.a.a(?:?) {"messageName":"NotLogin","time":1585203791450,"message":"User not login","status":0}
+net.appuploader.b.t: User not login
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2020-03-26 14:23:14,160 ERROR main net.appuploader.a.a(?:?) {"messageName":"NotLogin","time":1585203794160,"message":"User not login","status":0}
+net.appuploader.b.t: User not login
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2020-03-26 14:23:14,863 ERROR main net.appuploader.a.a(?:?) {"messageName":"NotLogin","time":1585203794863,"message":"User not login","status":0}
+net.appuploader.b.t: User not login
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2020-03-26 14:23:15,243 ERROR main net.appuploader.a.a(?:?) {"messageName":"NotLogin","time":1585203795243,"message":"User not login","status":0}
+net.appuploader.b.t: User not login
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2020-03-26 14:23:15,738 ERROR main net.appuploader.a.a(?:?) {"messageName":"NotLogin","time":1585203795738,"message":"User not login","status":0}
+net.appuploader.b.t: User not login
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2020-03-26 14:23:16,334 ERROR main net.appuploader.a.a(?:?) {"messageName":"NotLogin","time":1585203796334,"message":"User not login","status":0}
+net.appuploader.b.t: User not login
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2020-03-26 14:23:16,510 ERROR main net.appuploader.a.a(?:?) {"messageName":"NotLogin","time":1585203796510,"message":"User not login","status":0}
+net.appuploader.b.t: User not login
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2020-03-26 14:23:16,685 ERROR main net.appuploader.a.a(?:?) {"messageName":"NotLogin","time":1585203796685,"message":"User not login","status":0}
+net.appuploader.b.t: User not login
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2020-03-26 14:23:16,868 ERROR main net.appuploader.a.a(?:?) {"messageName":"NotLogin","time":1585203796868,"message":"User not login","status":0}
+net.appuploader.b.t: User not login
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2020-03-26 14:23:17,039 ERROR main net.appuploader.a.a(?:?) {"messageName":"NotLogin","time":1585203797039,"message":"User not login","status":0}
+net.appuploader.b.t: User not login
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2020-03-26 14:23:17,217 ERROR main net.appuploader.a.a(?:?) {"messageName":"NotLogin","time":1585203797217,"message":"User not login","status":0}
+net.appuploader.b.t: User not login
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2020-03-26 14:23:17,401 ERROR main net.appuploader.a.a(?:?) {"messageName":"NotLogin","time":1585203797401,"message":"User not login","status":0}
+net.appuploader.b.t: User not login
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2020-03-26 14:23:30,660 ERROR main net.appuploader.a.a(?:?) {"messageName":"NotLogin","time":1585203810660,"message":"User not login","status":0}
+net.appuploader.b.t: User not login
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2020-03-26 14:23:32,660 ERROR main net.appuploader.a.a(?:?) {"messageName":"NotLogin","time":1585203812660,"message":"User not login","status":0}
+net.appuploader.b.t: User not login
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2020-03-26 14:23:34,402 ERROR main net.appuploader.a.a(?:?) {"messageName":"NotLogin","time":1585203814402,"message":"User not login","status":0}
+net.appuploader.b.t: User not login
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2020-03-26 14:23:36,216 ERROR main net.appuploader.a.a(?:?) {"messageName":"NotLogin","time":1585203816216,"message":"User not login","status":0}
+net.appuploader.b.t: User not login
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2020-03-26 14:23:37,382 ERROR main net.appuploader.a.a(?:?) {"messageName":"NotLogin","time":1585203817382,"message":"User not login","status":0}
+net.appuploader.b.t: User not login
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2020-03-26 14:24:34,206 ERROR main net.appuploader.a.a(?:?) {"messageName":"NotLogin","time":1585203874206,"message":"User not login","status":0}
+net.appuploader.b.t: User not login
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2020-03-26 14:24:35,533 ERROR main net.appuploader.a.a(?:?) {"messageName":"NotLogin","time":1585203875533,"message":"User not login","status":0}
+net.appuploader.b.t: User not login
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2020-03-26 14:26:11,745 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommandParseFail","time":1585203971745,"message":"/www/wwwroot/chaojifenfa/publicupload/super_signature/20200325/443a665b502ae8ec6397e0f3800d1c2c.ipa must be exist file --sign ","status":0}
+net.appuploader.a.f: /www/wwwroot/chaojifenfa/publicupload/super_signature/20200325/443a665b502ae8ec6397e0f3800d1c2c.ipa must be exist file --sign 
+	at net.appuploader.a.e.a(Unknown Source)
+	at net.appuploader.a.e.a(Unknown Source)
+	at net.appuploader.a.d.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2020-03-26 14:26:47,675 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommandParseFail","time":1585204007675,"message":"/www/wwwroot/chaojifenfa/publicupload/super_signature/20200325/443a665b502ae8ec6397e0f3800d1c2c.ipa must be exist file --sign ","status":0}
+net.appuploader.a.f: /www/wwwroot/chaojifenfa/publicupload/super_signature/20200325/443a665b502ae8ec6397e0f3800d1c2c.ipa must be exist file --sign 
+	at net.appuploader.a.e.a(Unknown Source)
+	at net.appuploader.a.e.a(Unknown Source)
+	at net.appuploader.a.d.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2020-03-26 14:27:58,231 ERROR main net.appuploader.a.a(?:?) {"messageName":"NotLogin","time":1585204078231,"message":"User not login","status":0}
+net.appuploader.b.t: User not login
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2020-03-26 14:29:58,715 ERROR main net.appuploader.a.a(?:?) {"messageName":"NotLogin","time":1585204198715,"message":"User not login","status":0}
+net.appuploader.b.t: User not login
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2020-03-26 14:30:03,054 ERROR main net.appuploader.a.a(?:?) {"messageName":"NotLogin","time":1585204203054,"message":"User not login","status":0}
+net.appuploader.b.t: User not login
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2020-03-26 14:30:47,572 ERROR main net.appuploader.a.a(?:?) {"messageName":"NotLogin","time":1585204247572,"message":"User not login","status":0}
+net.appuploader.b.t: User not login
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2020-03-26 14:36:22,958 ERROR main net.appuploader.d.e.a(?:?) server response {"errorName":"EmailUsed","time":1585204582925,"message":"Email Exists","fun":"addUser","status":0}
+2020-03-26 14:36:22,958 ERROR main net.appuploader.a.a(?:?) {"messageName":"EmailUsed","time":1585204582958,"message":"Email Exists","status":0}
+net.appuploader.b.t: Email Exists
+	at net.appuploader.d.e.a(Unknown Source)
+	at net.appuploader.d.e.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2020-03-26 14:40:29,908 ERROR main net.appuploader.d.e.a(?:?) server response {"errorName":"PasswordError","time":1585204829858,"message":"Login Fail,Password Error","fun":"loginUser","status":0}
+2020-03-26 14:40:29,908 ERROR main net.appuploader.a.a(?:?) {"messageName":"PasswordError","time":1585204829908,"message":"Login Fail,Password Error","status":0}
+net.appuploader.b.t: Login Fail,Password Error
+	at net.appuploader.d.e.a(Unknown Source)
+	at net.appuploader.d.e.e(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2020-03-26 14:40:53,481 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1585204853481,"message":"Login reqired before sign","status":0}
+java.lang.Exception: Login reqired before sign
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2020-03-26 14:49:16,649 ERROR main net.appuploader.a.a(?:?) {"messageName":"NotLogin","time":1585205356649,"message":"User not login","status":0}
+net.appuploader.b.t: User not login
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2020-03-26 14:49:53,880 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1585205393880,"message":"Login reqired before sign","status":0}
+java.lang.Exception: Login reqired before sign
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2020-03-26 14:57:07,513 ERROR main net.appuploader.d.e.a(?:?) server response {"errorName":"PasswordError","time":1585205827469,"message":"Login Fail,Password Error","fun":"loginUser","status":0}
+2020-03-26 14:57:07,513 ERROR main net.appuploader.a.a(?:?) {"messageName":"PasswordError","time":1585205827513,"message":"Login Fail,Password Error","status":0}
+net.appuploader.b.t: Login Fail,Password Error
+	at net.appuploader.d.e.a(Unknown Source)
+	at net.appuploader.d.e.e(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2020-03-26 14:57:07,693 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1585205827693,"message":"Only enterprice user and super sign user can use this sign type ","status":0}
+net.appuploader.b.w: Only enterprice user and super sign user can use this sign type 
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2020-03-26 14:57:35,451 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1585205855451,"message":"Only enterprice user and super sign user can use this sign type ","status":0}
+net.appuploader.b.w: Only enterprice user and super sign user can use this sign type 
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)

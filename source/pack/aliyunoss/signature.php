@@ -1,0 +1,10 @@
+<?php
+/*
+ æœ¬ä»£ç ç”± PHPä»£ç åŠ å¯†å·¥å…· Xend [ä¸“ä¸šç‰ˆ](Build 5.05.56) åˆ›å»º
+ åˆ›å»ºæ—¶é—´ 2020-11-16 16:13:54
+ æŠ€æœ¯æ”¯æŒ QQ:30370740 Mail:support@phpXend.com
+ ä¸¥ç¦åç¼–è¯‘ã€é€†å‘ç­‰ä»»ä½•å½¢å¼çš„ä¾µæƒè¡Œä¸ºï¼Œè¿è€…å°†è¿½ç©¶æ³•å¾‹è´£ä»»
+*/
+
+namespace app\aliyunoss;class signature{function index(){$üž¡Œ§›="date";$O5heFvPvP1=$üž¡Œ§›('Y-m-d',strtotime('+1 day'));$O5hvPvPAW=$O5heFvPvP1 . "T12:00:00.000Z";$O5hzAvPvPvP2=array();$O5hzAvPvPvP2[]="content-length-range";$O5hzAvPvPvP2[]=0;$O5hzAvPvPvP2[]=1048576000;$O5hzAvPvP3=array();$O5hzAvPvP3[]=$O5hzAvPvPvP2;$O5hzAvP4=array();$O5hzAvP4["expiration"]=$O5hvPvPAW;$O5hzAvP4["conditions"]=$O5hzAvPvP3;unset($O5htIAX);$str=json_encode($O5hzAvP4);$àÇ§¦È™¹="base64_encode";$O5heF0=$àÇ§¦È™¹($str);unset($O5htIAW);$str=$O5heF0;unset($O5htIAW);$data['AccessKeyId']=IN_ALIYUNOSS_AKI;if(is_ssl())goto O5heWjgx2;$O5hbNB1=str_repeat("vJCxXLOV",1)==1;if($O5hbNB1)goto O5heWjgx2;$O5hbNB2=2-2;if($O5hbNB2)goto O5heWjgx2;goto O5hldMhx2;O5heWjgx2:$O5hAW='https://';goto O5hx1;O5hldMhx2:$O5hAW='http://';O5hx1:$O5hAX=$O5hAW . IN_ALIYUNOSS_BK;$O5hAY=$O5hAX . '.';$O5hAZ=$O5hAY . IN_ALIYUNOSS_EP;unset($O5htIB0);$data['domain']=$O5hAZ;unset($O5htIAW);$data['policy']=$str;$œÊÞ”š´˜="base64_encode";$O5heF1=$œÊÞ”š´˜(hash_hmac("sha1",$str,IN_ALIYUNOSS_AKS,true));unset($O5htIAW);$data['signature']=$O5heF1;reJSON($data);}}
+?>

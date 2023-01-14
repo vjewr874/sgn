@@ -1,0 +1,365 @@
+p,
+h3 {
+  padding: 0;
+  margin: 0;
+}
+body {
+  background: #FAFBFF;
+}
+.upgrade {
+  font-family: Source Han Sans CN;
+}
+.upgrade .introd {
+  text-align: center;
+  margin-bottom: 40px;
+}
+.upgrade .introd .title {
+  font-size: 30px;
+  font-weight: 500;
+  color: #343434;
+  margin-bottom: 12px;
+}
+.upgrade .introd .subtitle {
+  font-size: 14px;
+  font-weight: 400;
+  color: #B5B7C1;
+}
+.upgrade .introd.bgfff {
+  background-color: #fff;
+  margin-bottom: 0;
+  padding-bottom: 40px;
+}
+.upgrade .scenes {
+  width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+}
+.upgrade .scenes .left {
+  width: 380px;
+  height: 480px;
+  background: #FFFFFF;
+  border: 1px solid #EEF0F6;
+}
+.upgrade .scenes .left .title {
+  font-size: 24px;
+  font-weight: 500;
+  color: #343434;
+  margin-top: 47px;
+  margin-left: 45px;
+}
+.upgrade .scenes .left .title .img {
+  margin-right: 20px;
+}
+.upgrade .scenes .left .text {
+  width: 304px;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  color: #AAAEBF;
+  margin-top: 40px;
+  margin-left: 45px;
+}
+.upgrade .scenes .left .detail {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 45px;
+  width: 328px;
+  margin-top: 73px;
+}
+.upgrade .scenes .left .detail button {
+  width: 120px;
+  height: 36px;
+  line-height: 36px;
+  text-align: center;
+  border: 1px solid #2C56FF;
+  border-radius: 4px;
+  font-size: 14px;
+  color: #2D56FF;
+  background-color: rgba(0, 0, 0, 0);
+}
+.upgrade .scenes .left .detail .img {
+  width: 180px;
+  height: 121px;
+  opacity: 0.3;
+}
+.upgrade .scenes .right {
+  width: 790px;
+  height: 480px;
+}
+.upgrade .scenes .right .item {
+  width: 302px;
+  height: 162px;
+  background: #FFFFFF;
+  border: 1px solid #EEF0F6;
+  padding: 39px 34px 25px 42px;
+  display: inline-block;
+  margin-bottom: 25px;
+  box-sizing: content-box;
+}
+.upgrade .scenes .right .item .title {
+  font-size: 24px;
+  font-weight: 500;
+  color: #343434;
+  margin-bottom: 36px;
+}
+.upgrade .scenes .right .item .text {
+  font-size: 16px;
+  font-weight: 400;
+  color: #AAAEBF;
+  line-height: 30px;
+}
+.upgrade .scenes .right .item .detail {
+  font-size: 14px;
+  font-weight: 400;
+  color: #2D56FF;
+  margin-top: 20px;
+  cursor: pointer;
+}
+.upgrade .scenes .right .item:nth-child(odd) {
+  margin-right: 25px;
+}
+.upgrade .bgblue {
+  margin-top: 120px;
+  height: 280px;
+  background: url(/static/newV2/images/banner.png) center center no-repeat;
+  cursor: pointer;
+}
+.upgrade .adv {
+  width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.upgrade .adv .left {
+  width: 350px;
+  height: 426px;
+  overflow: hidden;
+}
+.upgrade .adv .left .item {
+  width: 352px;
+  height: 116px;
+  padding: 32px 0 36px 36px;
+  background: #FFFFFF;
+  border: 1px solid #EEF0F6;
+}
+.upgrade .adv .left .item .title {
+  font-size: 20px;
+  font-weight: 500;
+  color: #343434;
+  margin-bottom: 21px;
+}
+.upgrade .adv .left .item .title .img {
+  margin-right: 15px;
+}
+.upgrade .adv .left .item .text {
+  font-size: 14px;
+  font-weight: 400;
+  color: #AAAEBF;
+}
+.upgrade .adv .left .item.l1 {
+  border-radius: 0px 40px 0px 0px;
+}
+.upgrade .adv .left .item.l2 {
+  margin-top: 39px;
+  margin-bottom: 39px;
+}
+.upgrade .adv .left .item.l3 {
+  border-radius: 0px 0px 40px 0px;
+}
+.upgrade .adv .right .item {
+  width: 352px;
+  height: 116px;
+  padding: 32px 0 36px 36px;
+  background: #FFFFFF;
+  border: 1px solid #EEF0F6;
+}
+.upgrade .adv .right .item .title {
+  font-size: 20px;
+  font-weight: 500;
+  color: #343434;
+  margin-bottom: 21px;
+}
+.upgrade .adv .right .item .title .img {
+  margin-right: 15px;
+}
+.upgrade .adv .right .item .text {
+  font-size: 14px;
+  font-weight: 400;
+  color: #AAAEBF;
+}
+.upgrade .adv .right .item.r1 {
+  border-radius: 40px 0px 0px 0px;
+}
+.upgrade .adv .right .item.r2 {
+  margin-top: 39px;
+  margin-bottom: 39px;
+}
+.upgrade .adv .right .item.r3 {
+  border-radius: 0px 0px 0px 40px;
+}
+.upgrade .service {
+  width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.upgrade .service .item {
+  width: 380px;
+  height: 200px;
+  padding: 29px 39px 44px 39px;
+  background: #fff;
+  border: 1px solid #EEF0F6;
+  margin-bottom: 30px;
+}
+.upgrade .service .item .img {
+  margin-bottom: 22px;
+}
+.upgrade .service .item .subtitle {
+  font-size: 20px;
+  font-weight: 500;
+  color: #343434;
+  margin-bottom: 15px;
+}
+.upgrade .service .item .text {
+  width: 304px;
+  font-size: 16px;
+  font-family: Source Han Sans CN;
+  font-weight: 400;
+  color: #AAAEBF;
+  white-space: nowrap;
+  /*文本禁止换行*/
+  overflow: hidden;
+  /*超出部分隐藏*/
+  text-overflow: ellipsis;
+  /*文字超出部分以省略号显示*/
+}
+.upgrade .newsbg {
+  background-color: #fff;
+}
+.upgrade .newsbg .news {
+  width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+}
+.upgrade .newsbg .news .left .title {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 24px;
+  font-weight: 500;
+  color: #343434;
+  margin-bottom: 31px;
+}
+.upgrade .newsbg .news .left .title .img {
+  width: 22px;
+  height: 22px;
+}
+.upgrade .newsbg .news .left .title .more {
+  font-size: 14px;
+  font-weight: 400;
+  color: #B5B7C1;
+}
+.upgrade .newsbg .news .left ul {
+  padding-left: 0;
+}
+.upgrade .newsbg .news .left ul li {
+  width: 570px;
+  display: flex;
+  border: 1px solid #EEF0F6;
+}
+.upgrade .newsbg .news .left ul li .date {
+  width: 98px;
+  padding-top: 20px;
+  padding-bottom: 17px;
+  background: #FAFBFF;
+  text-align: center;
+}
+.upgrade .newsbg .news .left ul li .date .day {
+  font-size: 26px;
+  font-weight: 300;
+  color: #A6ACC4;
+  position: relative;
+  margin-bottom: 19px;
+}
+.upgrade .newsbg .news .left ul li .date .day::after {
+  content: '';
+  position: absolute;
+  width: 36px;
+  height: 1px;
+  background-color: #A6ACC4;
+  left: 30px;
+  bottom: -10px;
+}
+.upgrade .newsbg .news .left ul li .date .year {
+  font-size: 14px;
+  font-weight: 400;
+  color: #A5ABC4;
+}
+.upgrade .newsbg .news .left ul li .des {
+  margin-left: 28px;
+  padding-top: 25px;
+}
+.upgrade .newsbg .news .left ul li .des .title {
+  font-size: 20px;
+  font-weight: 500;
+  color: #343434;
+  margin-bottom: 15px;
+}
+.upgrade .newsbg .news .left ul li .des .text {
+  font-size: 14px;
+  font-weight: 400;
+  color: #AAAEBF;
+}
+.upgrade .newsbg .news .right .title {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 24px;
+  font-weight: 500;
+  color: #343434;
+  margin-bottom: 31px;
+}
+.upgrade .newsbg .news .right .title .img {
+  width: 22px;
+  height: 22px;
+}
+.upgrade .newsbg .news .right .title .more {
+  font-size: 14px;
+  font-weight: 400;
+  color: #B5B7C1;
+}
+.upgrade .newsbg .news .right ul {
+  padding-left: 0;
+}
+.upgrade .newsbg .news .right ul li {
+  list-style: none;
+  width: 550px;
+  border-top: 1px solid #EDEFF6;
+  padding-top: 30px;
+  padding-bottom: 29px;
+}
+.upgrade .newsbg .news .right ul li .subtitle {
+  font-size: 18px;
+  font-weight: 500;
+  color: #343434;
+  margin-bottom: 19px;
+  display: flex;
+  justify-content: space-between;
+}
+.upgrade .newsbg .news .right ul li .subtitle .time {
+  font-size: 14px;
+  font-weight: 400;
+  color: #B9BCC8;
+}
+.upgrade .newsbg .news .right ul li .text {
+  font-size: 14px;
+  font-weight: 400;
+  color: #AAAEBF;
+}
+.upgrade .newsbg .news .right ul li:last-child {
+  border-bottom: 1px solid #EDEFF6;
+}

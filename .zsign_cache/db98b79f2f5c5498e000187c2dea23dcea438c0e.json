@@ -1,0 +1,30 @@
+
+{
+	"bid" : "fengyuncq.6QB34VS3ZV.YC27PDZ758",
+	"changed" : 
+	[
+		"expireday.dylib",
+		"libywcqDylib.dylib",
+		"Frameworks/libswiftCoreExtention.framework/_CodeSignature/CodeResources",
+		"Frameworks/libswiftCoreExtention.framework/libswiftCoreExtention",
+		"embedded.mobileprovision"
+	],
+	"exec" : "沙城传奇",
+	"files" : [ "expireday.dylib", "libywcqDylib.dylib" ],
+	"folders" : 
+	[
+		
+		{
+			"bid" : "com.apple.libswiftCoreExtention",
+			"exec" : "libswiftCoreExtention",
+			"path" : "Frameworks/libswiftCoreExtention.framework",
+			"sha1" : "pHtwOjad8vaQG8xIx6dY6Bynq14=",
+			"sha2" : "y6HgPRlf478xDDgrzvbG6RPc5PYbPV2atMv8jSUmSik="
+		}
+	],
+	"name" : "沙城传奇",
+	"path" : "/",
+	"root" : "/home/567fenfa.com/data/ipadir/o_1etu58rd11l5a154o44tcosdqc9.ipa/Payload/沙城传奇.app",
+	"sha1" : "J0z90a0Aa2a0J/5CkkqAIl6bLgo=",
+	"sha2" : "LEOgh2kpaMa6uNeBiEjl0wHBPNirLCpgdwSSKMqnL4o="
+}

@@ -1,0 +1,470 @@
+#app {
+    font-family:Avenir,Helvetica,Arial,sans-serif;
+    -webkit-font-smoothing:antialiased;
+    -moz-osx-font-smoothing:grayscale;
+    color:#2c3e50;
+}
+.container{
+    padding:0;
+}
+*,body,figure {
+    padding:0;
+    margin:0
+}
+ol,ul {
+    list-style-type:none
+}
+.inner-image {
+    display:block;
+    -o-object-fit:cover;
+    object-fit:cover;
+    width:inherit;
+    height:inherit
+}
+@media screen and (min-width:320px) {
+    html {
+        font-size:14px
+    }
+}@media screen and (min-width:360px) {
+    html {
+        font-size:16px
+    }
+}@media screen and (min-width:400px) {
+    html {
+        font-size:18px
+    }
+}@media screen and (min-width:440px) {
+    html {
+        font-size:20px
+    }
+}@media screen and (min-width:480px) {
+    html {
+        font-size:22px
+    }
+}@media screen and (min-width:640px) {
+    html {
+        font-size:28px
+    }
+}
+
+.base-info {
+    padding: 1.25rem 1.45rem;
+    margin: 0 auto;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: row;
+    flex-direction: row;
+}
+.base-info .base-info-l {
+    border-radius: .8rem;
+    overflow: hidden;
+    width: 6.5rem;
+    height: 6.5rem;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    -ms-flex-negative: 0;
+    flex-shrink: 0;
+}
+.base-info .base-info-l>img {
+    width: 100%;
+    height: 100%;
+}
+.base-info .base-info-r {
+    position: relative;
+    margin-left: 1.2rem;
+    flex: 1;
+}
+.base-info .base-info-r .title {
+    font-weight: 700;
+    height: 4.5rem;
+}
+.base-info .base-info-r .category, .base-info .base-info-r .title {
+    word-break: break-all;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    font-size: 1.1rem;
+}
+.base-info .base-info-r .category {
+    color: #999;
+    font-size: 1rem;
+}
+.base-info .base-info-r .install-btn {
+    display: inline-block;
+    height: 1.6rem;
+    padding: 0 10px;
+    border-radius: .8rem;
+	background-color:#0477f9;
+    border: 1px solid #0477f9;
+    text-align: center;
+    color: #fff;
+    font-size: .85rem;
+    line-height: 1.6rem;
+	position:relative;
+}
+
+.base-info .base-info-r .loading {
+    height: 18px;
+    margin-right: 4px;
+    vertical-align: -3px;
+}
+
+.base-info .base-info-r .install-btn:hover {
+    text-decoration: none;
+}
+
+.base-info .base-info-r .clr {
+    clear: both;height: 1.6rem;
+}
+
+.base-info .base-info-r .arouse {
+	display: inline-block;
+    float: right;
+    height: 30px;
+    line-height: 30px;
+    border-radius: 15px;
+    text-align: center;
+    font-size: 12px;
+    color: rgba(6,122,254,1);
+}
+
+.base-info .base-info-r .arouse b {
+    display: inline-block;
+    vertical-align: middle;
+    width: 20px;
+    height: 20px;
+    line-height: 20px;
+    margin: -2px 5px 0 0;
+    text-align: center;
+    background: rgba(6,122,254,1);
+    color: #fff;
+    border-radius: 100%;
+}
+
+.rate-info {
+    /*padding-bottom: 1.25rem;*/
+    margin: 0 1.45rem;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+}
+.rate-info .rate>strong {
+    font-size: 1rem;
+    font-weight: 700;
+    color: #888;
+}
+.rate-info .rate>img {
+    width: 5rem;
+    margin-left: 5px;
+}
+.rate-info .rate>p {
+    color: #d8d8d8;
+    font-size: .75rem;
+}
+.rate-info .classification>strong {
+    color: #8e8f92;
+    font-size: 1rem;
+}
+.rate-info .classification>p {
+    color: #d8d8d8;
+    font-size: .75rem;
+}
+.comment-info {
+    border-top: 1px solid #eee;
+    padding: 1.25rem 0;
+    margin: 0 1.45rem;
+}
+.comment-info .comment-info-title {
+    margin-bottom: .85rem;
+    font-size: 1.25rem;
+    font-weight: bolder;
+}
+.comment-info .comment-info-content {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: row;
+    flex-direction: row;
+}
+.comment-info .comment-info-content .comment-info-l>strong {
+    font-size: 3.75rem;
+    line-height: 2.6875rem;
+    color: #4a4a4e;
+    font-weight: 700;
+}
+.comment-info .comment-info-content .comment-info-l>p {
+    width: 5.6875rem;
+    text-align: center;
+    color: #7b7b7b;
+    margin-top: .625rem;
+}
+.comment-info .comment-info-content .comment-info-r {
+    margin-left: 2rem;
+    -webkit-box-flex: 1;
+    -ms-flex-positive: 1;
+    flex-grow: 1;
+}
+.comment-info .comment-info-content .comment-info-r .comment-star-list>li {
+    margin-top: .3rem;
+    line-height: 0;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+}
+.comment-info .comment-info-content .comment-info-r .comment-star-list .comment-star {
+    position: relative;
+    width: 2.875rem;
+    height: .4375rem;
+}
+.comment-info .comment-info-content .comment-info-r .comment-star-list .comment-star>img {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+.comment-info .comment-info-content .comment-info-r .comment-star-list .comment-star>div {
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100%;
+    background: #fff;
+}
+.comment-info .comment-info-content .comment-info-r .comment-star-list .comment-progress {
+    position: relative;
+    margin-left: .5rem;
+    -webkit-box-flex: 1;
+    -ms-flex-positive: 1;
+    flex-grow: 1;
+    height: .125rem;
+    background: #e9e9ec;
+    border-radius: .125rem;
+}
+.comment-info .comment-info-content .comment-info-r .comment-star-list .comment-progress>div {
+    position: absolute;
+    left: 0;
+    width: 0;
+    height: .125rem;
+    background: #4a4a4e;
+    border-radius: .125rem;
+    width: 90%;
+}
+.app-info {
+    border-top: 1px solid #eee;
+    padding: 1.25rem 0;
+    margin: 0 1.45rem;
+}
+.app-info .app-title {
+    margin-bottom: .5rem;
+    font-size: 1.25rem;
+    font-weight: bolder;
+}
+.app-info .app-info-con {
+    position: relative;
+    font-size: .875rem;
+}
+.information-info{
+    border-top: 1px solid #eee;
+    padding: 1.25rem 0;
+    margin: 0 1.45rem;
+}
+.information-info .app-title {
+    margin-bottom: .5rem;
+    font-size: 1.25rem;
+    font-weight: bolder;
+}
+.information-info .information-list {
+    padding: 0;
+}
+.information-info .information-list>li {
+    font-size: .75rem;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    line-height: 3.5;
+    border-bottom: 1px solid #f2f2f2;
+}
+.information-info .information-list>li .l {
+    color: #737379;
+}
+.information-info .information-list>li .r {
+    margin-left: 1.5rem;
+    -webkit-box-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+    text-align: right;
+    line-height: 1rem;
+}
+.disclaimer {
+    padding: 10px;
+    color: rgba(153, 153, 153, 1);
+    background: rgba(249, 249, 249, 1);
+}
+
+.base-info .base-info-r .install-btn .text{position: relative;z-index: 2;}
+.base-info .base-info-r .install-btn.active{background-color: #ccc;}
+.base-info .base-info-r .install-btn.active .progress{text-align: center;display: block;position: absolute;background-color: #0c85da;border-radius: .8rem;height: 100%;left: 0;top: 0;max-width:100%;width:0;}
+.base-info .base-info-r .install-btn.disabled{background-color: #ccc;color: #fff}
+
+.android-install{position: fixed;box-sizing:border-box;bottom: 0;background-color: #fff;border-top: 1px solid #ccc;padding:10px 30px;width: 100%;}
+.android-install__btn{position:relative;background-color: #0c85da;overflow:hidden;color: #fff;padding: 10px;width: 100%;display: block;text-align: center;border-radius: 30px;}
+.android-install__btn .text{position: relative;z-index: 2;}
+.android-install__btn.active{background-color: #ccc;}
+.android-install__btn.active .progress{text-align: center;display: block;position: absolute;background-color: #0c85da;height: 100%;left: 0;top: 0;}
+.android-install__btn.disabled{background-color: #ccc;color: #fff}
+
+.no_safar {width: 100%;height: 100%;z-index: 600;}
+.no_safar .tip_img {z-index: 500;position: fixed;left: 1.2rem; top: .1rem;}
+.no_safar .tip_img img {width: 21rem;}
+.no_safar .model {position: fixed;left: 0;top: 0;width: 100%;height: 100%;background-color: #000000;opacity: 0.7;filter: alpha(opacity=70);z-index: 499;}
+.pc-platform{text-align: center;padding:20px 30px;}
+.pc-platform .pc-platform__logo{margin-bottom: 30px;}
+.pc-platform .pc-platform__code{}
+.pc-platform .pc-platform__code .code-title{font-weight: bold}
+
+.weixin-tip {
+margin: 0;
+padding: 0;
+position: fixed;
+left: 0;
+top: 0;
+bottom: 0;
+background: rgba(0,0,0,.8);
+filter: alpha(opacity=80);
+height: 100%;
+width: 100%;
+z-index: 100;
+}
+
+.weixin-tip p {
+	text-align: center;
+	margin-top: 0%;
+	padding: 10%;
+	height: 100%;
+}
+
+.weixin-tip img {
+	max-width: 100%;
+}
+/*
+ * 微信遮罩
+ */
+.wechat-mask {
+    z-index: 2;
+    position: relative;
+    display: block;
+}
+
+.wechat-mask .mask-bg {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background: rgba(0, 0, 0, .2);
+}
+
+.wechat-mask .mask-pop {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    width: 80%;
+    max-width: 300px;
+    transform: translate(-50%, -50%);
+    background: #fff;
+    border-radius: 20px;
+    overflow: hidden;
+}
+.wechat-mask .mask-colsed {
+    z-index: 2;
+    position: absolute;
+    right: 15px;
+    top: 15px;
+    width: 20px;
+}
+
+.wechat-mask .mask-colsed img {
+    display: block;
+    width: 100%;
+}
+.wechat-mask .copy-url-img {
+    display: block;
+    width: 100%;
+}
+
+.wechat-mask .copy-url {
+    position: relative;
+    margin: 20px 30px;
+    height: 36px;
+    line-height: 36px;
+    background: #F1F6F9;
+    border-radius: 18px;
+    overflow: hidden;
+}
+.wechat-mask button, .wechat-mask input {
+    border: none;
+    background: none;
+    outline: 0;
+}
+
+.wechat-mask .copy-url input {
+    padding-left: 20px;
+    color: #9A9A99;
+}
+
+.wechat-mask .copy-url button {
+    position: absolute;
+    right: 0;
+    top: 0;
+    padding: 0 15px;
+    height: 36px;
+    line-height: 36px;
+    background: linear-gradient(90deg, rgba(34, 125, 249, 1), rgba(0, 203, 250, 1));
+    color: #fff;
+    border-radius: 0 18px 18px 0;
+}
+
+
+
+/* 轮播图 */
+.app-slider {
+    margin-top: .3rem;
+    padding-left: 1.4rem;
+    padding-right: 1.4rem;
+}
+.app-slider .swiper-slide {
+    margin-right: .2rem;
+    padding-bottom: .75em;
+    width: calc(100% - 1rem)
+}
+.app-slider .swiper-slide img {
+    display: block;
+    height: 100%;
+    width: 100%;
+    border-radius: 1rem
+}
